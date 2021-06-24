@@ -1,9 +1,9 @@
 [
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 113641,
+    "stargazers_count": 113768,
     "open_issues_count": 324,
-    "forks_count": 37598
+    "forks_count": 37632
   },
   {
     "full_name": "Team-TAU/tau",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 79965,
-    "open_issues_count": 1389,
-    "forks_count": 20529
+    "stargazers_count": 80020,
+    "open_issues_count": 1396,
+    "forks_count": 20554
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 438,
-    "open_issues_count": 39,
+    "open_issues_count": 38,
     "forks_count": 125
   }
 ]
