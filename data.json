@@ -1,7 +1,7 @@
 [
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 114804,
+    "stargazers_count": 114807,
     "open_issues_count": 324,
     "forks_count": 37919
   },
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80385,
-    "open_issues_count": 1421,
-    "forks_count": 20698
+    "stargazers_count": 80387,
+    "open_issues_count": 1419,
+    "forks_count": 20699
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 460,
-    "open_issues_count": 40,
+    "open_issues_count": 37,
     "forks_count": 133
   }
 ]
