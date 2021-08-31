@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "morgs32/storybook-addon-xd-designs",
+    "stargazers_count": 35,
+    "open_issues_count": 18,
+    "forks_count": 5
+  },
+  {
+    "full_name": "papers-we-love/papers-we-love",
+    "stargazers_count": 48954,
+    "open_issues_count": 13,
+    "forks_count": 4192
+  },
+  {
+    "full_name": "wallabag/wallabag",
+    "stargazers_count": 6156,
+    "open_issues_count": 566,
+    "forks_count": 632
+  },
+  {
+    "full_name": "e-ther-inc/.github",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "open-sauced/check-engines",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "0-vortex/pedantic",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/ls-engines",
+    "stargazers_count": 24,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "npm/npm-install-checks",
+    "stargazers_count": 13,
+    "open_issues_count": 5,
+    "forks_count": 9
+  },
+  {
     "full_name": "e-ther-inc/beta.e-ther-inc.com",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,8 +61,8 @@
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 250,
-    "open_issues_count": 2,
+    "stargazers_count": 253,
+    "open_issues_count": 1,
     "forks_count": 29
   },
   {
@@ -25,9 +73,9 @@
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1664,
+    "stargazers_count": 1669,
     "open_issues_count": 29,
-    "forks_count": 367
+    "forks_count": 370
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
@@ -37,13 +85,13 @@
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 802,
+    "stargazers_count": 804,
     "open_issues_count": 15,
-    "forks_count": 152
+    "forks_count": 153
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1487,
+    "stargazers_count": 1493,
     "open_issues_count": 32,
     "forks_count": 226
   },
@@ -55,9 +103,9 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 433,
+    "stargazers_count": 434,
     "open_issues_count": 1,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "jajaperson/nestjs-auth0",
@@ -73,8 +121,8 @@
   },
   {
     "full_name": "webdataset/webdataset",
-    "stargazers_count": 516,
-    "open_issues_count": 23,
+    "stargazers_count": 517,
+    "open_issues_count": 25,
     "forks_count": 49
   },
   {
@@ -109,9 +157,9 @@
   },
   {
     "full_name": "arturbien/React95",
-    "stargazers_count": 4678,
+    "stargazers_count": 4680,
     "open_issues_count": 38,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "croqaz/awesome-decentralized",
@@ -121,7 +169,7 @@
   },
   {
     "full_name": "justinpinkney/awesome-pretrained-stylegan2",
-    "stargazers_count": 706,
+    "stargazers_count": 712,
     "open_issues_count": 7,
     "forks_count": 61
   },
@@ -130,53 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "nodejs/tooling",
-    "stargazers_count": 106,
-    "open_issues_count": 24,
-    "forks_count": 17
-  },
-  {
-    "full_name": "vladflonta/magento2-webapi-log",
-    "stargazers_count": 31,
-    "open_issues_count": 4,
-    "forks_count": 9
-  },
-  {
-    "full_name": "vladflonta/magento2-validate-hostname-fix",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "vladflonta/magento2-inline-translation-fix",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "vladflonta/magento2-store-switcher-url-fix",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rcbxd/node-cpu-intensive-tutorial",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "josdejong/workerpool",
-    "stargazers_count": 985,
-    "open_issues_count": 37,
-    "forks_count": 98
-  },
-  {
-    "full_name": "ajcwebdev/ajcwebdev-slinkity",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
