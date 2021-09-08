@@ -37,13 +37,13 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49167,
+    "stargazers_count": 49195,
     "open_issues_count": 13,
-    "forks_count": 4211
+    "forks_count": 4216
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6180,
+    "stargazers_count": 6181,
     "open_issues_count": 555,
     "forks_count": 634
   },
@@ -92,7 +92,7 @@
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 257,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 30
   },
   {
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 810,
+    "stargazers_count": 811,
     "open_issues_count": 15,
-    "forks_count": 155
+    "forks_count": 154
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1509,
+    "stargazers_count": 1510,
     "open_issues_count": 34,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "tudorconstantin/knests",
@@ -152,7 +152,7 @@
   {
     "full_name": "webdataset/webdataset",
     "stargazers_count": 524,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 50
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "ezgisubasi/turkish-tweets-sentiment-analysis",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "yang-song/score_sde_pytorch",
-    "stargazers_count": 228,
+    "stargazers_count": 231,
     "open_issues_count": 2,
     "forks_count": 25
   }
