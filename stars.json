@@ -7,7 +7,7 @@
   },
   {
     "full_name": "wfg/docker-openvpn-client",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 5,
     "forks_count": 14
   },
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49263,
+    "stargazers_count": 49287,
     "open_issues_count": 14,
-    "forks_count": 4217
+    "forks_count": 4216
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6183,
-    "open_issues_count": 556,
+    "stargazers_count": 6184,
+    "open_issues_count": 557,
     "forks_count": 634
   },
   {
@@ -92,20 +92,20 @@
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 258,
-    "open_issues_count": 1,
+    "open_issues_count": 5,
     "forks_count": 30
   },
   {
     "full_name": "benjsicam/nestjs-graphql-microservices",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 15,
     "forks_count": 28
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1688,
+    "stargazers_count": 1692,
     "open_issues_count": 28,
-    "forks_count": 372
+    "forks_count": 373
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1517,
+    "stargazers_count": 1518,
     "open_issues_count": 34,
     "forks_count": 230
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 1,
     "forks_count": 44
   },
   {
     "full_name": "jajaperson/nestjs-auth0",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 18,
     "forks_count": 14
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "webdataset/webdataset",
-    "stargazers_count": 525,
+    "stargazers_count": 530,
     "open_issues_count": 27,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "yekaizhou/duet",
