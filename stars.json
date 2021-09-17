@@ -1,15 +1,15 @@
 [
   {
     "full_name": "jonohill/docker-openvpn-proxy",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "wfg/docker-openvpn-client",
     "stargazers_count": 61,
-    "open_issues_count": 5,
-    "forks_count": 15
+    "open_issues_count": 4,
+    "forks_count": 16
   },
   {
     "full_name": "filiptronicek/filiptronicek",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "firecat53/dockerfiles",
-    "stargazers_count": 519,
+    "stargazers_count": 520,
     "open_issues_count": 1,
     "forks_count": 90
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49372,
+    "stargazers_count": 49427,
     "open_issues_count": 14,
-    "forks_count": 4223
+    "forks_count": 4224
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6190,
-    "open_issues_count": 559,
-    "forks_count": 634
+    "stargazers_count": 6194,
+    "open_issues_count": 561,
+    "forks_count": 636
   },
   {
     "full_name": "e-ther-inc/.github",
@@ -86,26 +86,26 @@
   {
     "full_name": "carbon-design-system/carbon-for-ibm-dotcom-nextjs-test",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 258,
+    "stargazers_count": 259,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "benjsicam/nestjs-graphql-microservices",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 15,
     "forks_count": 28
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1700,
+    "stargazers_count": 1701,
     "open_issues_count": 28,
-    "forks_count": 377
+    "forks_count": 378
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 817,
+    "stargazers_count": 819,
     "open_issues_count": 14,
     "forks_count": 155
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1526,
+    "stargazers_count": 1530,
     "open_issues_count": 35,
-    "forks_count": 233
+    "forks_count": 234
   },
   {
     "full_name": "tudorconstantin/knests",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 448,
+    "stargazers_count": 454,
     "open_issues_count": 1,
     "forks_count": 45
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "webdataset/webdataset",
-    "stargazers_count": 535,
+    "stargazers_count": 538,
     "open_issues_count": 30,
     "forks_count": 51
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "yang-song/score_sde_pytorch",
     "stargazers_count": 233,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 25
   }
 ]
