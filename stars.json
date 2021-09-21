@@ -1,13 +1,37 @@
 [
   {
+    "full_name": "crowdsecurity/crowdsec",
+    "stargazers_count": 3727,
+    "open_issues_count": 65,
+    "forks_count": 176
+  },
+  {
+    "full_name": "optoolco/tonic",
+    "stargazers_count": 411,
+    "open_issues_count": 7,
+    "forks_count": 9
+  },
+  {
+    "full_name": "zricethezav/gitleaks",
+    "stargazers_count": 8386,
+    "open_issues_count": 89,
+    "forks_count": 740
+  },
+  {
+    "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
+    "stargazers_count": 124,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
     "full_name": "jonohill/docker-openvpn-proxy",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "wfg/docker-openvpn-client",
-    "stargazers_count": 61,
+    "stargazers_count": 60,
     "open_issues_count": 4,
     "forks_count": 16
   },
@@ -15,7 +39,7 @@
     "full_name": "filiptronicek/filiptronicek",
     "stargazers_count": 39,
     "open_issues_count": 0,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "cantidosan/workspace",
@@ -37,14 +61,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49449,
+    "stargazers_count": 49496,
     "open_issues_count": 14,
     "forks_count": 4225
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6199,
-    "open_issues_count": 562,
+    "stargazers_count": 6202,
+    "open_issues_count": 563,
     "forks_count": 636
   },
   {
@@ -67,9 +91,9 @@
   },
   {
     "full_name": "ljharb/ls-engines",
-    "stargazers_count": 24,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 25,
+    "open_issues_count": 2,
+    "forks_count": 1
   },
   {
     "full_name": "npm/npm-install-checks",
@@ -91,7 +115,7 @@
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 260,
+    "stargazers_count": 262,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -103,80 +127,56 @@
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1702,
-    "open_issues_count": 28,
+    "stargazers_count": 1706,
+    "open_issues_count": 29,
     "forks_count": 378
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 30,
     "forks_count": 28
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 822,
-    "open_issues_count": 14,
-    "forks_count": 155
+    "stargazers_count": 827,
+    "open_issues_count": 13,
+    "forks_count": 159
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1531,
+    "stargazers_count": 1535,
     "open_issues_count": 35,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "tudorconstantin/knests",
-    "stargazers_count": 204,
+    "stargazers_count": 205,
     "open_issues_count": 24,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 455,
-    "open_issues_count": 1,
-    "forks_count": 45
+    "stargazers_count": 458,
+    "open_issues_count": 0,
+    "forks_count": 46
   },
   {
     "full_name": "jajaperson/nestjs-auth0",
-    "stargazers_count": 137,
-    "open_issues_count": 18,
+    "stargazers_count": 138,
+    "open_issues_count": 19,
     "forks_count": 14
   },
   {
     "full_name": "BinRoot/TensorFlow-Book",
-    "stargazers_count": 4439,
+    "stargazers_count": 4440,
     "open_issues_count": 15,
     "forks_count": 1240
   },
   {
     "full_name": "webdataset/webdataset",
-    "stargazers_count": 539,
+    "stargazers_count": 541,
     "open_issues_count": 30,
     "forks_count": 51
-  },
-  {
-    "full_name": "yekaizhou/duet",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ezgisubasi/turkish-tweets-sentiment-analysis",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "SKRohit/Generating_Text_Summary_With_GPT2",
-    "stargazers_count": 86,
-    "open_issues_count": 1,
-    "forks_count": 19
-  },
-  {
-    "full_name": "yang-song/score_sde_pytorch",
-    "stargazers_count": 233,
-    "open_issues_count": 4,
-    "forks_count": 25
   }
 ]
