@@ -1,9 +1,9 @@
 [
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3727,
-    "open_issues_count": 65,
-    "forks_count": 176
+    "stargazers_count": 3740,
+    "open_issues_count": 66,
+    "forks_count": 177
   },
   {
     "full_name": "optoolco/tonic",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8386,
+    "stargazers_count": 8390,
     "open_issues_count": 89,
-    "forks_count": 740
+    "forks_count": 743
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 124,
+    "stargazers_count": 126,
     "open_issues_count": 2,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "wfg/docker-openvpn-client",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 4,
     "forks_count": 16
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "firecat53/dockerfiles",
-    "stargazers_count": 520,
+    "stargazers_count": 521,
     "open_issues_count": 1,
     "forks_count": 90
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49496,
+    "stargazers_count": 49508,
     "open_issues_count": 14,
-    "forks_count": 4225
+    "forks_count": 4226
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6202,
-    "open_issues_count": 563,
-    "forks_count": 636
+    "stargazers_count": 6204,
+    "open_issues_count": 564,
+    "forks_count": 635
   },
   {
     "full_name": "e-ther-inc/.github",
@@ -122,19 +122,19 @@
   {
     "full_name": "benjsicam/nestjs-graphql-microservices",
     "stargazers_count": 81,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 28
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1706,
+    "stargazers_count": 1707,
     "open_issues_count": 29,
-    "forks_count": 378
+    "forks_count": 380
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
     "stargazers_count": 118,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 28
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1535,
-    "open_issues_count": 35,
-    "forks_count": 235
+    "stargazers_count": 1536,
+    "open_issues_count": 37,
+    "forks_count": 237
   },
   {
     "full_name": "tudorconstantin/knests",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "BinRoot/TensorFlow-Book",
-    "stargazers_count": 4440,
+    "stargazers_count": 4441,
     "open_issues_count": 15,
-    "forks_count": 1240
+    "forks_count": 1241
   },
   {
     "full_name": "webdataset/webdataset",
