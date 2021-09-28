@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "LekoArts/gatsby-starter-minimal-blog",
+    "stargazers_count": 851,
+    "open_issues_count": 0,
+    "forks_count": 244
+  },
+  {
+    "full_name": "ethriel3695/gatsby-theme-contentful",
+    "stargazers_count": 4,
+    "open_issues_count": 21,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gatsby-inc/gatsby-starter-default-beta",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "open-sauced/actions",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "OneGraph/graphiql-explorer",
     "stargazers_count": 775,
     "open_issues_count": 34,
@@ -7,33 +31,33 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 921,
-    "open_issues_count": 2,
-    "forks_count": 198
+    "stargazers_count": 929,
+    "open_issues_count": 1,
+    "forks_count": 203
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3765,
-    "open_issues_count": 66,
+    "stargazers_count": 3782,
+    "open_issues_count": 67,
     "forks_count": 178
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 414,
+    "stargazers_count": 429,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8402,
-    "open_issues_count": 92,
-    "forks_count": 748
+    "stargazers_count": 8413,
+    "open_issues_count": 90,
+    "forks_count": 751
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 143,
-    "open_issues_count": 2,
-    "forks_count": 20
+    "stargazers_count": 151,
+    "open_issues_count": 4,
+    "forks_count": 21
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "wfg/docker-openvpn-client",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 4,
     "forks_count": 17
   },
@@ -51,7 +75,7 @@
     "full_name": "filiptronicek/filiptronicek",
     "stargazers_count": 40,
     "open_issues_count": 0,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "cantidosan/workspace",
@@ -73,14 +97,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49543,
+    "stargazers_count": 49587,
     "open_issues_count": 14,
-    "forks_count": 4229
+    "forks_count": 4232
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6210,
-    "open_issues_count": 565,
+    "stargazers_count": 6219,
+    "open_issues_count": 566,
     "forks_count": 635
   },
   {
@@ -122,13 +146,13 @@
   {
     "full_name": "carbon-design-system/carbon-for-ibm-dotcom-nextjs-test",
     "stargazers_count": 6,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 264,
-    "open_issues_count": 0,
+    "stargazers_count": 266,
+    "open_issues_count": 5,
     "forks_count": 30
   },
   {
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1714,
+    "stargazers_count": 1718,
     "open_issues_count": 29,
-    "forks_count": 380
+    "forks_count": 382
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
-    "stargazers_count": 120,
+    "stargazers_count": 122,
     "open_issues_count": 31,
     "forks_count": 29
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 830,
-    "open_issues_count": 13,
-    "forks_count": 160
-  },
-  {
-    "full_name": "juicycleff/ultimate-backend",
-    "stargazers_count": 1542,
-    "open_issues_count": 37,
-    "forks_count": 238
-  },
-  {
-    "full_name": "tudorconstantin/knests",
-    "stargazers_count": 205,
+    "stargazers_count": 833,
     "open_issues_count": 14,
-    "forks_count": 27
-  },
-  {
-    "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 457,
-    "open_issues_count": 0,
-    "forks_count": 46
-  },
-  {
-    "full_name": "jajaperson/nestjs-auth0",
-    "stargazers_count": 138,
-    "open_issues_count": 19,
-    "forks_count": 14
+    "forks_count": 160
   }
 ]
