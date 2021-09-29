@@ -31,33 +31,33 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 929,
-    "open_issues_count": 1,
-    "forks_count": 203
+    "stargazers_count": 934,
+    "open_issues_count": 3,
+    "forks_count": 206
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3782,
-    "open_issues_count": 67,
-    "forks_count": 178
+    "stargazers_count": 3787,
+    "open_issues_count": 64,
+    "forks_count": 179
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 429,
+    "stargazers_count": 433,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8413,
-    "open_issues_count": 90,
-    "forks_count": 751
+    "stargazers_count": 8420,
+    "open_issues_count": 89,
+    "forks_count": 752
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 151,
+    "stargazers_count": 153,
     "open_issues_count": 4,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49587,
+    "stargazers_count": 49599,
     "open_issues_count": 14,
-    "forks_count": 4232
+    "forks_count": 4233
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6219,
-    "open_issues_count": 566,
+    "stargazers_count": 6220,
+    "open_issues_count": 568,
     "forks_count": 635
   },
   {
@@ -146,37 +146,37 @@
   {
     "full_name": "carbon-design-system/carbon-for-ibm-dotcom-nextjs-test",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 266,
-    "open_issues_count": 5,
+    "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "benjsicam/nestjs-graphql-microservices",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 16,
     "forks_count": 28
   },
   {
     "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1718,
+    "stargazers_count": 1721,
     "open_issues_count": 29,
-    "forks_count": 382
+    "forks_count": 383
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 31,
     "forks_count": 29
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 833,
+    "stargazers_count": 834,
     "open_issues_count": 14,
-    "forks_count": 160
+    "forks_count": 161
   }
 ]
