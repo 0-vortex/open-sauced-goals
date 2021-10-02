@@ -31,9 +31,9 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 938,
+    "stargazers_count": 940,
     "open_issues_count": 1,
-    "forks_count": 211
+    "forks_count": 214
   },
   {
     "full_name": "crowdsecurity/crowdsec",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8429,
+    "stargazers_count": 8432,
     "open_issues_count": 91,
-    "forks_count": 755
+    "forks_count": 756
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 159,
+    "stargazers_count": 163,
     "open_issues_count": 4,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49619,
-    "open_issues_count": 14,
-    "forks_count": 4237
+    "stargazers_count": 49626,
+    "open_issues_count": 15,
+    "forks_count": 4238
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6224,
+    "stargazers_count": 6225,
     "open_issues_count": 570,
     "forks_count": 636
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 266,
-    "open_issues_count": 0,
-    "forks_count": 30
+    "stargazers_count": 267,
+    "open_issues_count": 1,
+    "forks_count": 31
   },
   {
     "full_name": "benjsicam/nestjs-graphql-microservices",
@@ -165,18 +165,18 @@
     "full_name": "lujakob/nestjs-realworld-example-app",
     "stargazers_count": 1724,
     "open_issues_count": 29,
-    "forks_count": 383
+    "forks_count": 384
   },
   {
     "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 31,
     "forks_count": 29
   },
   {
     "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 835,
+    "stargazers_count": 837,
     "open_issues_count": 14,
-    "forks_count": 161
+    "forks_count": 162
   }
 ]
