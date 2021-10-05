@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "cloudquery/cloudquery",
+    "stargazers_count": 1791,
+    "open_issues_count": 13,
+    "forks_count": 108
+  },
+  {
+    "full_name": "asaurusrex/Forblaze",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "semantic-release/changelog",
+    "stargazers_count": 172,
+    "open_issues_count": 22,
+    "forks_count": 14
+  },
+  {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
     "stargazers_count": 851,
     "open_issues_count": 0,
-    "forks_count": 243
+    "forks_count": 244
   },
   {
     "full_name": "ethriel3695/gatsby-theme-contentful",
@@ -31,31 +49,31 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 940,
-    "open_issues_count": 1,
-    "forks_count": 214
+    "stargazers_count": 957,
+    "open_issues_count": 2,
+    "forks_count": 230
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3795,
-    "open_issues_count": 65,
-    "forks_count": 179
+    "stargazers_count": 3799,
+    "open_issues_count": 66,
+    "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 438,
+    "stargazers_count": 439,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8432,
-    "open_issues_count": 91,
-    "forks_count": 756
+    "stargazers_count": 8444,
+    "open_issues_count": 93,
+    "forks_count": 758
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 163,
+    "stargazers_count": 166,
     "open_issues_count": 4,
     "forks_count": 23
   },
@@ -97,14 +115,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49626,
-    "open_issues_count": 15,
-    "forks_count": 4238
+    "stargazers_count": 49642,
+    "open_issues_count": 14,
+    "forks_count": 4243
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6225,
-    "open_issues_count": 570,
+    "stargazers_count": 6233,
+    "open_issues_count": 572,
     "forks_count": 636
   },
   {
@@ -151,8 +169,8 @@
   },
   {
     "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 267,
-    "open_issues_count": 1,
+    "stargazers_count": 268,
+    "open_issues_count": 0,
     "forks_count": 31
   },
   {
@@ -160,23 +178,5 @@
     "stargazers_count": 82,
     "open_issues_count": 16,
     "forks_count": 28
-  },
-  {
-    "full_name": "lujakob/nestjs-realworld-example-app",
-    "stargazers_count": 1724,
-    "open_issues_count": 29,
-    "forks_count": 384
-  },
-  {
-    "full_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
-    "stargazers_count": 125,
-    "open_issues_count": 31,
-    "forks_count": 29
-  },
-  {
-    "full_name": "NarHakobyan/awesome-nest-boilerplate",
-    "stargazers_count": 837,
-    "open_issues_count": 14,
-    "forks_count": 162
   }
 ]
