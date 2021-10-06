@@ -1,7 +1,7 @@
 [
   {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1791,
+    "stargazers_count": 1797,
     "open_issues_count": 13,
     "forks_count": 108
   },
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "semantic-release/changelog",
-    "stargazers_count": 172,
+    "stargazers_count": 174,
     "open_issues_count": 22,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 851,
+    "stargazers_count": 852,
     "open_issues_count": 0,
     "forks_count": 244
   },
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 957,
-    "open_issues_count": 2,
-    "forks_count": 230
+    "stargazers_count": 961,
+    "open_issues_count": 1,
+    "forks_count": 232
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3799,
+    "stargazers_count": 3805,
     "open_issues_count": 66,
     "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 439,
+    "stargazers_count": 442,
     "open_issues_count": 6,
     "forks_count": 9
   },
@@ -69,7 +69,7 @@
     "full_name": "zricethezav/gitleaks",
     "stargazers_count": 8444,
     "open_issues_count": 93,
-    "forks_count": 758
+    "forks_count": 757
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
@@ -93,7 +93,7 @@
     "full_name": "filiptronicek/filiptronicek",
     "stargazers_count": 40,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "cantidosan/workspace",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49642,
+    "stargazers_count": 49651,
     "open_issues_count": 14,
-    "forks_count": 4243
+    "forks_count": 4245
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6233,
+    "stargazers_count": 6234,
     "open_issues_count": 572,
     "forks_count": 636
   },
@@ -170,7 +170,7 @@
   {
     "full_name": "mikepenz/release-changelog-builder-action",
     "stargazers_count": 268,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 31
   },
   {
