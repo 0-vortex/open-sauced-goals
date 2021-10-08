@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "wez/wezterm",
+    "stargazers_count": 2377,
+    "open_issues_count": 145,
+    "forks_count": 124
+  },
+  {
+    "full_name": "sedwards2009/extraterm",
+    "stargazers_count": 1876,
+    "open_issues_count": 87,
+    "forks_count": 96
+  },
+  {
+    "full_name": "open-sauced/code-of-conduct",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "open-sauced/tweets",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "open-sauced/assets",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1797,
-    "open_issues_count": 13,
-    "forks_count": 108
+    "stargazers_count": 1798,
+    "open_issues_count": 16,
+    "forks_count": 107
   },
   {
     "full_name": "asaurusrex/Forblaze",
@@ -13,20 +43,20 @@
   },
   {
     "full_name": "semantic-release/changelog",
-    "stargazers_count": 174,
+    "stargazers_count": 176,
     "open_issues_count": 22,
     "forks_count": 15
   },
   {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 852,
+    "stargazers_count": 855,
     "open_issues_count": 0,
-    "forks_count": 244
+    "forks_count": 245
   },
   {
     "full_name": "ethriel3695/gatsby-theme-contentful",
     "stargazers_count": 4,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 0
   },
   {
@@ -43,39 +73,39 @@
   },
   {
     "full_name": "OneGraph/graphiql-explorer",
-    "stargazers_count": 775,
+    "stargazers_count": 777,
     "open_issues_count": 35,
     "forks_count": 66
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 961,
+    "stargazers_count": 969,
     "open_issues_count": 1,
-    "forks_count": 232
+    "forks_count": 239
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3805,
-    "open_issues_count": 66,
+    "stargazers_count": 3810,
+    "open_issues_count": 65,
     "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 442,
+    "stargazers_count": 445,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8444,
-    "open_issues_count": 93,
-    "forks_count": 757
+    "stargazers_count": 8460,
+    "open_issues_count": 94,
+    "forks_count": 755
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 166,
+    "stargazers_count": 170,
     "open_issues_count": 4,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -93,7 +123,7 @@
     "full_name": "filiptronicek/filiptronicek",
     "stargazers_count": 40,
     "open_issues_count": 0,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "cantidosan/workspace",
@@ -115,15 +145,15 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49651,
+    "stargazers_count": 49663,
     "open_issues_count": 14,
     "forks_count": 4245
   },
   {
     "full_name": "wallabag/wallabag",
-    "stargazers_count": 6234,
+    "stargazers_count": 6236,
     "open_issues_count": 572,
-    "forks_count": 636
+    "forks_count": 637
   },
   {
     "full_name": "e-ther-inc/.github",
@@ -148,35 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 2,
     "forks_count": 1
-  },
-  {
-    "full_name": "npm/npm-install-checks",
-    "stargazers_count": 13,
-    "open_issues_count": 5,
-    "forks_count": 9
-  },
-  {
-    "full_name": "e-ther-inc/beta.e-ther-inc.com",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "carbon-design-system/carbon-for-ibm-dotcom-nextjs-test",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 18
-  },
-  {
-    "full_name": "mikepenz/release-changelog-builder-action",
-    "stargazers_count": 268,
-    "open_issues_count": 1,
-    "forks_count": 31
-  },
-  {
-    "full_name": "benjsicam/nestjs-graphql-microservices",
-    "stargazers_count": 82,
-    "open_issues_count": 16,
-    "forks_count": 28
   }
 ]
