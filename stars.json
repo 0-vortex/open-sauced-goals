@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "sorry-cypress/sorry-cypress",
+    "stargazers_count": 1520,
+    "open_issues_count": 33,
+    "forks_count": 148
+  },
+  {
+    "full_name": "nickytonline/epic-actions",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "wez/wezterm",
-    "stargazers_count": 2383,
-    "open_issues_count": 145,
+    "stargazers_count": 2392,
+    "open_issues_count": 146,
     "forks_count": 125
   },
   {
     "full_name": "sedwards2009/extraterm",
-    "stargazers_count": 1886,
+    "stargazers_count": 1891,
     "open_issues_count": 87,
     "forks_count": 96
   },
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1799,
+    "stargazers_count": 1804,
     "open_issues_count": 14,
-    "forks_count": 107
+    "forks_count": 110
   },
   {
     "full_name": "asaurusrex/Forblaze",
@@ -49,7 +61,7 @@
   },
   {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 856,
+    "stargazers_count": 857,
     "open_issues_count": 0,
     "forks_count": 245
   },
@@ -80,30 +92,30 @@
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
     "stargazers_count": 972,
-    "open_issues_count": 1,
-    "forks_count": 241
+    "open_issues_count": 0,
+    "forks_count": 244
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3821,
-    "open_issues_count": 61,
+    "stargazers_count": 3825,
+    "open_issues_count": 62,
     "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 445,
+    "stargazers_count": 446,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8467,
+    "stargazers_count": 8469,
     "open_issues_count": 97,
-    "forks_count": 757
+    "forks_count": 759
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 4,
     "forks_count": 24
   },
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "firecat53/dockerfiles",
-    "stargazers_count": 521,
+    "stargazers_count": 522,
     "open_issues_count": 1,
     "forks_count": 90
   },
@@ -145,14 +157,14 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49666,
+    "stargazers_count": 49677,
     "open_issues_count": 14,
-    "forks_count": 4249
+    "forks_count": 4250
   },
   {
     "full_name": "wallabag/wallabag",
     "stargazers_count": 6236,
-    "open_issues_count": 575,
+    "open_issues_count": 573,
     "forks_count": 637
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "0-vortex/pedantic",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/ls-engines",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
-    "forks_count": 1
   }
 ]
