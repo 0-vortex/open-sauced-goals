@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "SparkPost/node-sparkpost",
+    "stargazers_count": 177,
+    "open_issues_count": 18,
+    "forks_count": 42
+  },
+  {
+    "full_name": "rauchg/slackin",
+    "stargazers_count": 6453,
+    "open_issues_count": 177,
+    "forks_count": 1438
+  },
+  {
+    "full_name": "extrawurst/gitui",
+    "stargazers_count": 5848,
+    "open_issues_count": 74,
+    "forks_count": 226
+  },
+  {
     "full_name": "sorry-cypress/sorry-cypress",
-    "stargazers_count": 1520,
+    "stargazers_count": 1537,
     "open_issues_count": 33,
     "forks_count": 148
   },
@@ -13,13 +31,13 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 2392,
-    "open_issues_count": 146,
-    "forks_count": 125
+    "stargazers_count": 2399,
+    "open_issues_count": 145,
+    "forks_count": 126
   },
   {
     "full_name": "sedwards2009/extraterm",
-    "stargazers_count": 1891,
+    "stargazers_count": 1892,
     "open_issues_count": 87,
     "forks_count": 96
   },
@@ -43,8 +61,8 @@
   },
   {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1804,
-    "open_issues_count": 14,
+    "stargazers_count": 1808,
+    "open_issues_count": 13,
     "forks_count": 110
   },
   {
@@ -61,9 +79,9 @@
   },
   {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 857,
+    "stargazers_count": 859,
     "open_issues_count": 0,
-    "forks_count": 245
+    "forks_count": 246
   },
   {
     "full_name": "ethriel3695/gatsby-theme-contentful",
@@ -91,33 +109,33 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 972,
+    "stargazers_count": 984,
     "open_issues_count": 0,
-    "forks_count": 244
+    "forks_count": 250
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3825,
-    "open_issues_count": 62,
+    "stargazers_count": 3838,
+    "open_issues_count": 61,
     "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 446,
+    "stargazers_count": 447,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8469,
-    "open_issues_count": 97,
-    "forks_count": 759
+    "stargazers_count": 8477,
+    "open_issues_count": 90,
+    "forks_count": 760
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 173,
+    "stargazers_count": 175,
     "open_issues_count": 4,
-    "forks_count": 24
+    "forks_count": 27
   },
   {
     "full_name": "jonohill/docker-openvpn-proxy",
@@ -127,7 +145,7 @@
   },
   {
     "full_name": "wfg/docker-openvpn-client",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 4,
     "forks_count": 17
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49677,
+    "stargazers_count": 49689,
     "open_issues_count": 14,
-    "forks_count": 4250
-  },
-  {
-    "full_name": "wallabag/wallabag",
-    "stargazers_count": 6236,
-    "open_issues_count": 573,
-    "forks_count": 637
-  },
-  {
-    "full_name": "e-ther-inc/.github",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "open-sauced/check-engines",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 4253
   }
 ]
