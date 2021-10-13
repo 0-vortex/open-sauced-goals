@@ -13,14 +13,14 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 5848,
+    "stargazers_count": 5874,
     "open_issues_count": 74,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "sorry-cypress/sorry-cypress",
-    "stargazers_count": 1537,
-    "open_issues_count": 33,
+    "stargazers_count": 1540,
+    "open_issues_count": 31,
     "forks_count": 148
   },
   {
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 2399,
-    "open_issues_count": 145,
+    "stargazers_count": 2407,
+    "open_issues_count": 148,
     "forks_count": 126
   },
   {
     "full_name": "sedwards2009/extraterm",
-    "stargazers_count": 1892,
-    "open_issues_count": 87,
+    "stargazers_count": 1893,
+    "open_issues_count": 88,
     "forks_count": 96
   },
   {
     "full_name": "open-sauced/code-of-conduct",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1808,
-    "open_issues_count": 13,
-    "forks_count": 110
+    "stargazers_count": 1811,
+    "open_issues_count": 16,
+    "forks_count": 112
   },
   {
     "full_name": "asaurusrex/Forblaze",
-    "stargazers_count": 38,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 859,
+    "stargazers_count": 861,
     "open_issues_count": 0,
     "forks_count": 246
   },
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 984,
-    "open_issues_count": 0,
-    "forks_count": 250
+    "stargazers_count": 986,
+    "open_issues_count": 1,
+    "forks_count": 251
   },
   {
     "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3838,
+    "stargazers_count": 3849,
     "open_issues_count": 61,
     "forks_count": 180
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 447,
+    "stargazers_count": 448,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "zricethezav/gitleaks",
-    "stargazers_count": 8477,
+    "stargazers_count": 8482,
     "open_issues_count": 90,
-    "forks_count": 760
+    "forks_count": 761
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 49689,
+    "stargazers_count": 49699,
     "open_issues_count": 14,
-    "forks_count": 4253
+    "forks_count": 4252
   }
 ]
