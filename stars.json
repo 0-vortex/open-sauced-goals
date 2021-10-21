@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "HashLips/hashlips_art_engine",
+    "stargazers_count": 838,
+    "open_issues_count": 42,
+    "forks_count": 365
+  },
+  {
+    "full_name": "Sairyss/domain-driven-hexagon",
+    "stargazers_count": 4027,
+    "open_issues_count": 6,
+    "forks_count": 283
+  },
+  {
+    "full_name": "renemarc/dotfiles",
+    "stargazers_count": 38,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "felipecrs/dotfiles",
+    "stargazers_count": 22,
+    "open_issues_count": 7,
+    "forks_count": 9
+  },
+  {
+    "full_name": "benmezger/dotfiles",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Amar1729/dotfiles",
+    "stargazers_count": 33,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "relaxdiego/dotfiles",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "open-sauced/.github",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Virtual-Coffee/virtualcoffee.io",
+    "stargazers_count": 92,
+    "open_issues_count": 25,
+    "forks_count": 120
+  },
+  {
     "full_name": "dianastanciu-dev/dianastanciu-dev",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,27 +61,27 @@
   },
   {
     "full_name": "nickytonline/picture-portal",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
+    "stargazers_count": 3,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "dghubble/sling",
-    "stargazers_count": 1371,
+    "stargazers_count": 1372,
     "open_issues_count": 0,
     "forks_count": 103
   },
   {
     "full_name": "bcoe/conventional-release-labels",
-    "stargazers_count": 249,
+    "stargazers_count": 251,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 17723,
-    "open_issues_count": 463,
-    "forks_count": 3141
+    "stargazers_count": 17748,
+    "open_issues_count": 466,
+    "forks_count": 3142
   },
   {
     "full_name": "brandonroberts/astro-blog",
@@ -67,13 +121,13 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 5963,
-    "open_issues_count": 76,
-    "forks_count": 229
+    "stargazers_count": 6010,
+    "open_issues_count": 79,
+    "forks_count": 231
   },
   {
     "full_name": "sorry-cypress/sorry-cypress",
-    "stargazers_count": 1551,
+    "stargazers_count": 1553,
     "open_issues_count": 30,
     "forks_count": 150
   },
@@ -85,7 +139,7 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 2425,
+    "stargazers_count": 2427,
     "open_issues_count": 158,
     "forks_count": 128
   },
@@ -115,8 +169,8 @@
   },
   {
     "full_name": "cloudquery/cloudquery",
-    "stargazers_count": 1827,
-    "open_issues_count": 13,
+    "stargazers_count": 1831,
+    "open_issues_count": 14,
     "forks_count": 116
   },
   {
@@ -124,59 +178,5 @@
     "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "semantic-release/changelog",
-    "stargazers_count": 177,
-    "open_issues_count": 21,
-    "forks_count": 15
-  },
-  {
-    "full_name": "LekoArts/gatsby-starter-minimal-blog",
-    "stargazers_count": 865,
-    "open_issues_count": 0,
-    "forks_count": 246
-  },
-  {
-    "full_name": "ethriel3695/gatsby-theme-contentful",
-    "stargazers_count": 4,
-    "open_issues_count": 22,
-    "forks_count": 0
-  },
-  {
-    "full_name": "gatsby-inc/gatsby-starter-default-beta",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "open-sauced/actions",
-    "stargazers_count": 3,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "OneGraph/graphiql-explorer",
-    "stargazers_count": 778,
-    "open_issues_count": 36,
-    "forks_count": 66
-  },
-  {
-    "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 1107,
-    "open_issues_count": 0,
-    "forks_count": 281
-  },
-  {
-    "full_name": "crowdsecurity/crowdsec",
-    "stargazers_count": 3881,
-    "open_issues_count": 64,
-    "forks_count": 185
-  },
-  {
-    "full_name": "optoolco/tonic",
-    "stargazers_count": 453,
-    "open_issues_count": 6,
-    "forks_count": 9
   }
 ]
