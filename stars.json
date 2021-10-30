@@ -25,9 +25,9 @@
   },
   {
     "full_name": "handtracking-io/yoha",
-    "stargazers_count": 1336,
+    "stargazers_count": 1395,
     "open_issues_count": 9,
-    "forks_count": 74
+    "forks_count": 82
   },
   {
     "full_name": "eclass/semantic-release-npm-github-config",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "HashLips/hashlips_art_engine",
-    "stargazers_count": 1027,
-    "open_issues_count": 57,
-    "forks_count": 448
+    "stargazers_count": 1048,
+    "open_issues_count": 59,
+    "forks_count": 457
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 4174,
+    "stargazers_count": 4183,
     "open_issues_count": 3,
     "forks_count": 294
   },
@@ -80,13 +80,13 @@
   {
     "full_name": "open-sauced/.github",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 97,
-    "open_issues_count": 22,
+    "open_issues_count": 15,
     "forks_count": 123
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "dghubble/sling",
-    "stargazers_count": 1373,
+    "stargazers_count": 1374,
     "open_issues_count": 1,
     "forks_count": 104
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 17866,
-    "open_issues_count": 466,
-    "forks_count": 3166
+    "stargazers_count": 17874,
+    "open_issues_count": 462,
+    "forks_count": 3167
   },
   {
     "full_name": "brandonroberts/astro-blog",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 6151,
+    "stargazers_count": 6158,
     "open_issues_count": 83,
-    "forks_count": 236
+    "forks_count": 237
   },
   {
     "full_name": "sorry-cypress/sorry-cypress",
-    "stargazers_count": 1574,
+    "stargazers_count": 1578,
     "open_issues_count": 30,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 2451,
-    "open_issues_count": 175,
+    "stargazers_count": 2452,
+    "open_issues_count": 176,
     "forks_count": 132
   }
 ]
