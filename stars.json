@@ -26,14 +26,14 @@
   {
     "full_name": "NsdHSO/vorkurt",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "handtracking-io/yoha",
-    "stargazers_count": 1449,
-    "open_issues_count": 10,
-    "forks_count": 87
+    "stargazers_count": 1460,
+    "open_issues_count": 9,
+    "forks_count": 88
   },
   {
     "full_name": "eclass/semantic-release-npm-github-config",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "HashLips/hashlips_art_engine",
-    "stargazers_count": 1093,
-    "open_issues_count": 62,
-    "forks_count": 485
+    "stargazers_count": 1111,
+    "open_issues_count": 66,
+    "forks_count": 495
   },
   {
     "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 4196,
+    "stargazers_count": 4197,
     "open_issues_count": 2,
-    "forks_count": 295
+    "forks_count": 298
   },
   {
     "full_name": "renemarc/dotfiles",
@@ -63,7 +63,7 @@
     "full_name": "felipecrs/dotfiles",
     "stargazers_count": 22,
     "open_issues_count": 7,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "benmezger/dotfiles",
@@ -92,7 +92,7 @@
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
     "stargazers_count": 97,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 123
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 17889,
-    "open_issues_count": 463,
-    "forks_count": 3167
+    "stargazers_count": 17899,
+    "open_issues_count": 468,
+    "forks_count": 3171
   },
   {
     "full_name": "brandonroberts/astro-blog",
@@ -140,7 +140,7 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 12,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 6175,
+    "stargazers_count": 6178,
     "open_issues_count": 82,
     "forks_count": 235
   },
   {
     "full_name": "sorry-cypress/sorry-cypress",
-    "stargazers_count": 1585,
+    "stargazers_count": 1586,
     "open_issues_count": 30,
     "forks_count": 152
   },
