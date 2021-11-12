@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "smartive/semantic-release-image",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "caos/semantic-release",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rdaniels6813/semantic-release-alpine",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rokerlabs/docker-semantic-release",
+    "stargazers_count": 1,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "zaripych/dockerized-semantic-release",
+    "stargazers_count": 1,
+    "open_issues_count": 6,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gtramontina/docker-semantic-release",
+    "stargazers_count": 7,
+    "open_issues_count": 18,
+    "forks_count": 1
+  },
+  {
+    "full_name": "entwico/semantic-release-drone",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "semantic-release/env-ci",
+    "stargazers_count": 188,
+    "open_issues_count": 9,
+    "forks_count": 39
+  },
+  {
+    "full_name": "actions/runner",
+    "stargazers_count": 2200,
+    "open_issues_count": 389,
+    "forks_count": 458
+  },
+  {
     "full_name": "martinmcwhorter/commitiquette",
     "stargazers_count": 24,
     "open_issues_count": 0,
@@ -8,7 +62,7 @@
   {
     "full_name": "open-sauced/conventional-commit",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -19,7 +73,7 @@
   },
   {
     "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 9522,
+    "stargazers_count": 9537,
     "open_issues_count": 107,
     "forks_count": 575
   },
@@ -37,9 +91,9 @@
   },
   {
     "full_name": "lucidrains/DALLE-pytorch",
-    "stargazers_count": 3538,
+    "stargazers_count": 3539,
     "open_issues_count": 91,
-    "forks_count": 343
+    "forks_count": 344
   },
   {
     "full_name": "karser/docusaurus-plugin-matomo",
@@ -55,8 +109,8 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 4937,
-    "open_issues_count": 824,
+    "stargazers_count": 4948,
+    "open_issues_count": 834,
     "forks_count": 451
   },
   {
@@ -73,7 +127,7 @@
   },
   {
     "full_name": "kohheepeace/mr-pdf",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 14,
     "forks_count": 6
   },
@@ -85,13 +139,13 @@
   },
   {
     "full_name": "rohit-gohri/redocusaurus",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 19,
     "forks_count": 15
   },
   {
     "full_name": "slorber/trailing-slash-guide",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 2,
     "forks_count": 8
   },
@@ -121,62 +175,8 @@
   },
   {
     "full_name": "handtracking-io/yoha",
-    "stargazers_count": 1560,
+    "stargazers_count": 1570,
     "open_issues_count": 9,
-    "forks_count": 97
-  },
-  {
-    "full_name": "eclass/semantic-release-npm-github-config",
-    "stargazers_count": 1,
-    "open_issues_count": 33,
-    "forks_count": 1
-  },
-  {
-    "full_name": "HashLips/hashlips_art_engine",
-    "stargazers_count": 1322,
-    "open_issues_count": 107,
-    "forks_count": 589
-  },
-  {
-    "full_name": "Sairyss/domain-driven-hexagon",
-    "stargazers_count": 4241,
-    "open_issues_count": 2,
-    "forks_count": 305
-  },
-  {
-    "full_name": "renemarc/dotfiles",
-    "stargazers_count": 42,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "felipecrs/dotfiles",
-    "stargazers_count": 24,
-    "open_issues_count": 7,
-    "forks_count": 10
-  },
-  {
-    "full_name": "benmezger/dotfiles",
-    "stargazers_count": 47,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Amar1729/dotfiles",
-    "stargazers_count": 33,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "relaxdiego/dotfiles",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "open-sauced/.github",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 96
   }
 ]
