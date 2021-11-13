@@ -49,9 +49,9 @@
   },
   {
     "full_name": "actions/runner",
-    "stargazers_count": 2200,
-    "open_issues_count": 389,
-    "forks_count": 458
+    "stargazers_count": 2203,
+    "open_issues_count": 395,
+    "forks_count": 459
   },
   {
     "full_name": "martinmcwhorter/commitiquette",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 9537,
+    "stargazers_count": 9546,
     "open_issues_count": 107,
-    "forks_count": 575
+    "forks_count": 577
   },
   {
     "full_name": "github-craftwork/start-here",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 4,
     "forks_count": 103
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "lucidrains/DALLE-pytorch",
-    "stargazers_count": 3539,
+    "stargazers_count": 3545,
     "open_issues_count": 91,
-    "forks_count": 344
+    "forks_count": 345
   },
   {
     "full_name": "karser/docusaurus-plugin-matomo",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 4948,
-    "open_issues_count": 834,
-    "forks_count": 451
+    "stargazers_count": 4957,
+    "open_issues_count": 832,
+    "forks_count": 452
   },
   {
     "full_name": "kohheepeace/docusaurus-pdf",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "kohheepeace/mr-pdf",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 14,
     "forks_count": 6
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "rohit-gohri/redocusaurus",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 19,
     "forks_count": 15
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "handtracking-io/yoha",
-    "stargazers_count": 1570,
+    "stargazers_count": 1573,
     "open_issues_count": 9,
     "forks_count": 96
   }
