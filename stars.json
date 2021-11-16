@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "gordonmurray/packer_ansible_inspec_terraform_aws",
+    "stargazers_count": 105,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
+    "full_name": "Hammerspoon/hammerspoon",
+    "stargazers_count": 8355,
+    "open_issues_count": 401,
+    "forks_count": 432
+  },
+  {
+    "full_name": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "stargazers_count": 713,
+    "open_issues_count": 5,
+    "forks_count": 80
+  },
+  {
+    "full_name": "microsoft/clarity",
+    "stargazers_count": 589,
+    "open_issues_count": 31,
+    "forks_count": 62
+  },
+  {
+    "full_name": "nodesecurity/eslint-plugin-security",
+    "stargazers_count": 1636,
+    "open_issues_count": 38,
+    "forks_count": 106
+  },
+  {
+    "full_name": "open-sauced/hot-sauce",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "smartive/semantic-release-image",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -49,9 +85,9 @@
   },
   {
     "full_name": "actions/runner",
-    "stargazers_count": 2203,
-    "open_issues_count": 395,
-    "forks_count": 459
+    "stargazers_count": 2206,
+    "open_issues_count": 396,
+    "forks_count": 460
   },
   {
     "full_name": "martinmcwhorter/commitiquette",
@@ -73,14 +109,14 @@
   },
   {
     "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 9546,
+    "stargazers_count": 9590,
     "open_issues_count": 107,
-    "forks_count": 577
+    "forks_count": 583
   },
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 77,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 103
   },
   {
@@ -91,9 +127,9 @@
   },
   {
     "full_name": "lucidrains/DALLE-pytorch",
-    "stargazers_count": 3545,
-    "open_issues_count": 91,
-    "forks_count": 345
+    "stargazers_count": 3548,
+    "open_issues_count": 92,
+    "forks_count": 347
   },
   {
     "full_name": "karser/docusaurus-plugin-matomo",
@@ -109,9 +145,9 @@
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 4957,
-    "open_issues_count": 832,
-    "forks_count": 452
+    "stargazers_count": 4965,
+    "open_issues_count": 843,
+    "forks_count": 454
   },
   {
     "full_name": "kohheepeace/docusaurus-pdf",
@@ -140,43 +176,7 @@
   {
     "full_name": "rohit-gohri/redocusaurus",
     "stargazers_count": 120,
-    "open_issues_count": 19,
+    "open_issues_count": 12,
     "forks_count": 15
-  },
-  {
-    "full_name": "slorber/trailing-slash-guide",
-    "stargazers_count": 190,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "Escape-Technologies/mookme",
-    "stargazers_count": 15,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "0-vortex/open-sauced-explorer-test",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "0-vortex/open-sauced-semantic-config-test",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "NsdHSO/vorkurt",
-    "stargazers_count": 1,
-    "open_issues_count": 4,
-    "forks_count": 1
-  },
-  {
-    "full_name": "handtracking-io/yoha",
-    "stargazers_count": 1573,
-    "open_issues_count": 9,
-    "forks_count": 96
   }
 ]
