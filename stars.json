@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "open-sauced/party-line",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pmowrer/semantic-release-github-pr",
+    "stargazers_count": 32,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "pmowrer/semantic-release-plugin-decorators",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "n0th1ng-else/semantic-release-pr-analyzer",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sebbo2002/semantic-release-docker",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "droidsolutions/semantic-release-update-file",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "amanda-mitchell/semantic-release-npm-multiple",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "useflyyer/flyyer-docs",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "semantic-release-plus/semantic-release-plus",
+    "stargazers_count": 11,
+    "open_issues_count": 8,
+    "forks_count": 5
+  },
+  {
+    "full_name": "semantic-release/npm",
+    "stargazers_count": 133,
+    "open_issues_count": 34,
+    "forks_count": 76
+  },
+  {
     "full_name": "ajcwebdev/test",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -50,8 +110,8 @@
   {
     "full_name": "Gusto/semantic-release-rubygem",
     "stargazers_count": 7,
-    "open_issues_count": 21,
-    "forks_count": 6
+    "open_issues_count": 22,
+    "forks_count": 7
   },
   {
     "full_name": "embesozzi/java-semantic-release",
@@ -63,12 +123,12 @@
     "full_name": "lluchmk/semantic-release-ado",
     "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "KengoTODA/gradle-semantic-release-plugin",
     "stargazers_count": 21,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
@@ -79,7 +139,7 @@
   },
   {
     "full_name": "nat/ghtop",
-    "stargazers_count": 689,
+    "stargazers_count": 690,
     "open_issues_count": 8,
     "forks_count": 35
   },
@@ -91,19 +151,19 @@
   },
   {
     "full_name": "Hammerspoon/hammerspoon",
-    "stargazers_count": 8372,
-    "open_issues_count": 397,
+    "stargazers_count": 8373,
+    "open_issues_count": 398,
     "forks_count": 431
   },
   {
     "full_name": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
-    "stargazers_count": 1402,
+    "stargazers_count": 1439,
     "open_issues_count": 8,
-    "forks_count": 137
+    "forks_count": 140
   },
   {
     "full_name": "microsoft/clarity",
-    "stargazers_count": 605,
+    "stargazers_count": 606,
     "open_issues_count": 30,
     "forks_count": 65
   },
@@ -118,65 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "smartive/semantic-release-image",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "caos/semantic-release",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rdaniels6813/semantic-release-alpine",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rokerlabs/docker-semantic-release",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "zaripych/dockerized-semantic-release",
-    "stargazers_count": 1,
-    "open_issues_count": 6,
-    "forks_count": 0
-  },
-  {
-    "full_name": "gtramontina/docker-semantic-release",
-    "stargazers_count": 7,
-    "open_issues_count": 18,
-    "forks_count": 1
-  },
-  {
-    "full_name": "entwico/semantic-release-drone",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "semantic-release/env-ci",
-    "stargazers_count": 188,
-    "open_issues_count": 10,
-    "forks_count": 39
-  },
-  {
-    "full_name": "actions/runner",
-    "stargazers_count": 2235,
-    "open_issues_count": 395,
-    "forks_count": 463
-  },
-  {
-    "full_name": "martinmcwhorter/commitiquette",
-    "stargazers_count": 24,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
