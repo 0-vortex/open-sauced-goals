@@ -1,182 +1,182 @@
 [
   {
-    "full_name": "open-sauced/party-line",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pmowrer/semantic-release-github-pr",
-    "stargazers_count": 32,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "pmowrer/semantic-release-plugin-decorators",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "n0th1ng-else/semantic-release-pr-analyzer",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "sebbo2002/semantic-release-docker",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "droidsolutions/semantic-release-update-file",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "amanda-mitchell/semantic-release-npm-multiple",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "useflyyer/flyyer-docs",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "semantic-release-plus/semantic-release-plus",
-    "stargazers_count": 11,
-    "open_issues_count": 8,
-    "forks_count": 5
-  },
-  {
-    "full_name": "semantic-release/npm",
-    "stargazers_count": 133,
-    "open_issues_count": 34,
-    "forks_count": 76
-  },
-  {
-    "full_name": "ajcwebdev/test",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "google/semantic-release-replace-plugin",
-    "stargazers_count": 53,
-    "open_issues_count": 5,
-    "forks_count": 12
-  },
-  {
-    "full_name": "Actions-R-Us/actions-tagger",
-    "stargazers_count": 43,
-    "open_issues_count": 5,
-    "forks_count": 2
-  },
-  {
-    "full_name": "cycjimmy/semantic-release-action",
-    "stargazers_count": 220,
-    "open_issues_count": 12,
-    "forks_count": 41
-  },
-  {
-    "full_name": "juliuscc/semantic-release-slack-bot",
-    "stargazers_count": 72,
-    "open_issues_count": 6,
-    "forks_count": 21
-  },
-  {
-    "full_name": "saitho/semantic-release-backmerge",
-    "stargazers_count": 18,
-    "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "byCedric/semantic-release-expo",
-    "stargazers_count": 76,
-    "open_issues_count": 20,
-    "forks_count": 5
-  },
-  {
-    "full_name": "juliangieseke/semantic-release-jira",
-    "stargazers_count": 5,
-    "open_issues_count": 11,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Gusto/semantic-release-rubygem",
-    "stargazers_count": 7,
-    "open_issues_count": 22,
-    "forks_count": 7
-  },
-  {
-    "full_name": "embesozzi/java-semantic-release",
+    "full_name": "ralexander-phi/license_approval",
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
-    "full_name": "lluchmk/semantic-release-ado",
-    "stargazers_count": 20,
+    "full_name": "kt3k/license_checker",
+    "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 6
   },
   {
-    "full_name": "KengoTODA/gradle-semantic-release-plugin",
-    "stargazers_count": 21,
-    "open_issues_count": 5,
-    "forks_count": 10
-  },
-  {
-    "full_name": "uchuuproject/uchuutools",
-    "stargazers_count": 66,
+    "full_name": "Steffen911/license-checker-action",
+    "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 0
   },
   {
-    "full_name": "nat/ghtop",
-    "stargazers_count": 690,
+    "full_name": "philips-software/spdx-action",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "thalleslmF/actions-license",
+    "stargazers_count": 1,
+    "open_issues_count": 3,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jstrieb/github-stats",
+    "stargazers_count": 1076,
+    "open_issues_count": 14,
+    "forks_count": 279
+  },
+  {
+    "full_name": "jasonlong/isometric-contributions",
+    "stargazers_count": 3074,
+    "open_issues_count": 0,
+    "forks_count": 156
+  },
+  {
+    "full_name": "teoxoy/profile-readme-stats",
+    "stargazers_count": 126,
+    "open_issues_count": 3,
+    "forks_count": 64
+  },
+  {
+    "full_name": "junleen/RainNet",
+    "stargazers_count": 90,
+    "open_issues_count": 6,
+    "forks_count": 16
+  },
+  {
+    "full_name": "WarenGonzaga/css-text-portrait-builder",
+    "stargazers_count": 86,
     "open_issues_count": 8,
+    "forks_count": 34
+  },
+  {
+    "full_name": "egoist/bget",
+    "stargazers_count": 181,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "divyakelaskar/MagicHat",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "run-youngjoo/SC-FEGAN",
+    "stargazers_count": 3226,
+    "open_issues_count": 37,
+    "forks_count": 523
+  },
+  {
+    "full_name": "jonabc/licensed-ci",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "jonabc/setup-licensed",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "actions/example-services",
+    "stargazers_count": 202,
+    "open_issues_count": 17,
+    "forks_count": 207
+  },
+  {
+    "full_name": "github/licensed",
+    "stargazers_count": 825,
+    "open_issues_count": 11,
+    "forks_count": 121
+  },
+  {
+    "full_name": "angus-c/just",
+    "stargazers_count": 3709,
+    "open_issues_count": 7,
+    "forks_count": 174
+  },
+  {
+    "full_name": "AsyncBanana/microdiff",
+    "stargazers_count": 2268,
+    "open_issues_count": 6,
     "forks_count": 35
   },
   {
-    "full_name": "gordonmurray/packer_ansible_inspec_terraform_aws",
-    "stargazers_count": 105,
-    "open_issues_count": 0,
-    "forks_count": 17
+    "full_name": "NetanelBasal/helpful-decorators",
+    "stargazers_count": 341,
+    "open_issues_count": 13,
+    "forks_count": 40
   },
   {
-    "full_name": "Hammerspoon/hammerspoon",
-    "stargazers_count": 8373,
-    "open_issues_count": 398,
-    "forks_count": 431
+    "full_name": "remix-run/remix",
+    "stargazers_count": 6865,
+    "open_issues_count": 430,
+    "forks_count": 347
   },
   {
-    "full_name": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
-    "stargazers_count": 1439,
-    "open_issues_count": 8,
-    "forks_count": 140
+    "full_name": "thebuilder/react-intersection-observer",
+    "stargazers_count": 2647,
+    "open_issues_count": 4,
+    "forks_count": 123
   },
   {
-    "full_name": "microsoft/clarity",
-    "stargazers_count": 606,
-    "open_issues_count": 30,
-    "forks_count": 65
-  },
-  {
-    "full_name": "nodesecurity/eslint-plugin-security",
-    "stargazers_count": 1638,
-    "open_issues_count": 38,
-    "forks_count": 106
-  },
-  {
-    "full_name": "open-sauced/hot-sauce",
-    "stargazers_count": 2,
+    "full_name": "jsjoeio/use-streak",
+    "stargazers_count": 18,
     "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "actions/typescript-action",
+    "stargazers_count": 903,
+    "open_issues_count": 16,
+    "forks_count": 217
+  },
+  {
+    "full_name": "actions/cache",
+    "stargazers_count": 2349,
+    "open_issues_count": 229,
+    "forks_count": 549
+  },
+  {
+    "full_name": "softprops/action-gh-release",
+    "stargazers_count": 1115,
+    "open_issues_count": 36,
+    "forks_count": 143
+  },
+  {
+    "full_name": "0-vortex/open-sauced-docs-test",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "0-vortex/polywork-handbook",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "0-vortex/open-sauced-conventional-commit-test",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "0-vortex/semantic-release-docker-mini",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
