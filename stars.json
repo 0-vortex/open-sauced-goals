@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ralexander-phi/license_approval",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "Steffen911/license-checker-action",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jstrieb/github-stats",
-    "stargazers_count": 1152,
+    "stargazers_count": 1159,
     "open_issues_count": 18,
-    "forks_count": 298
+    "forks_count": 301
   },
   {
     "full_name": "jasonlong/isometric-contributions",
@@ -75,7 +75,7 @@
     "full_name": "run-youngjoo/SC-FEGAN",
     "stargazers_count": 3230,
     "open_issues_count": 37,
-    "forks_count": 522
+    "forks_count": 524
   },
   {
     "full_name": "jonabc/licensed-ci",
@@ -85,31 +85,31 @@
   },
   {
     "full_name": "jonabc/setup-licensed",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "actions/example-services",
-    "stargazers_count": 209,
+    "stargazers_count": 210,
     "open_issues_count": 17,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "github/licensed",
-    "stargazers_count": 833,
+    "stargazers_count": 834,
     "open_issues_count": 11,
-    "forks_count": 120
+    "forks_count": 122
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 3885,
+    "stargazers_count": 3886,
     "open_issues_count": 4,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "AsyncBanana/microdiff",
-    "stargazers_count": 2819,
+    "stargazers_count": 2824,
     "open_issues_count": 7,
     "forks_count": 54
   },
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 10223,
-    "open_issues_count": 516,
-    "forks_count": 615
+    "stargazers_count": 10595,
+    "open_issues_count": 536,
+    "forks_count": 637
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 2720,
+    "stargazers_count": 2739,
     "open_issues_count": 2,
     "forks_count": 126
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 931,
+    "stargazers_count": 933,
     "open_issues_count": 18,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 2414,
-    "open_issues_count": 183,
-    "forks_count": 568
+    "stargazers_count": 2421,
+    "open_issues_count": 180,
+    "forks_count": 569
   },
   {
     "full_name": "softprops/action-gh-release",
-    "stargazers_count": 1185,
-    "open_issues_count": 39,
-    "forks_count": 154
+    "stargazers_count": 1193,
+    "open_issues_count": 40,
+    "forks_count": 155
   },
   {
     "full_name": "0-vortex/open-sauced-docs-test",
