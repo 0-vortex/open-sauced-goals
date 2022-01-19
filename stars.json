@@ -31,14 +31,14 @@
   },
   {
     "full_name": "jstrieb/github-stats",
-    "stargazers_count": 1177,
+    "stargazers_count": 1188,
     "open_issues_count": 19,
-    "forks_count": 304
+    "forks_count": 306
   },
   {
     "full_name": "jasonlong/isometric-contributions",
-    "stargazers_count": 3118,
-    "open_issues_count": 0,
+    "stargazers_count": 3120,
+    "open_issues_count": 1,
     "forks_count": 156
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "run-youngjoo/SC-FEGAN",
-    "stargazers_count": 3231,
+    "stargazers_count": 3232,
     "open_issues_count": 37,
     "forks_count": 526
   },
@@ -91,43 +91,43 @@
   },
   {
     "full_name": "actions/example-services",
-    "stargazers_count": 212,
+    "stargazers_count": 213,
     "open_issues_count": 17,
-    "forks_count": 221
+    "forks_count": 220
   },
   {
     "full_name": "github/licensed",
     "stargazers_count": 836,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 123
   },
   {
     "full_name": "angus-c/just",
-    "stargazers_count": 3905,
-    "open_issues_count": 7,
-    "forks_count": 181
+    "stargazers_count": 3910,
+    "open_issues_count": 9,
+    "forks_count": 183
   },
   {
     "full_name": "AsyncBanana/microdiff",
-    "stargazers_count": 2844,
-    "open_issues_count": 10,
-    "forks_count": 55
+    "stargazers_count": 2852,
+    "open_issues_count": 8,
+    "forks_count": 54
   },
   {
     "full_name": "NetanelBasal/helpful-decorators",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 13,
     "forks_count": 42
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 11045,
-    "open_issues_count": 557,
-    "forks_count": 695
+    "stargazers_count": 11237,
+    "open_issues_count": 579,
+    "forks_count": 717
   },
   {
     "full_name": "thebuilder/react-intersection-observer",
-    "stargazers_count": 2751,
+    "stargazers_count": 2762,
     "open_issues_count": 2,
     "forks_count": 125
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 939,
-    "open_issues_count": 18,
-    "forks_count": 235
+    "stargazers_count": 943,
+    "open_issues_count": 19,
+    "forks_count": 238
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 2446,
-    "open_issues_count": 179,
-    "forks_count": 577
+    "stargazers_count": 2456,
+    "open_issues_count": 182,
+    "forks_count": 580
   },
   {
     "full_name": "softprops/action-gh-release",
-    "stargazers_count": 1213,
-    "open_issues_count": 40,
-    "forks_count": 156
+    "stargazers_count": 1237,
+    "open_issues_count": 42,
+    "forks_count": 157
   },
   {
     "full_name": "0-vortex/open-sauced-docs-test",
