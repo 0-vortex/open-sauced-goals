@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "antfu/utils",
+    "stargazers_count": 146,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "open-sauced/goals-template",
+    "stargazers_count": 17,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
     "full_name": "0-vortex/rss-feed-parser",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -25,20 +37,20 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 17689,
+    "stargazers_count": 17690,
     "open_issues_count": 73,
     "forks_count": 479
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 1721,
+    "stargazers_count": 1727,
     "open_issues_count": 6,
     "forks_count": 47
   },
   {
     "full_name": "redkubes/otomi-core",
-    "stargazers_count": 590,
-    "open_issues_count": 38,
+    "stargazers_count": 592,
+    "open_issues_count": 39,
     "forks_count": 32
   },
   {
@@ -67,19 +79,19 @@
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 3142,
+    "stargazers_count": 3143,
     "open_issues_count": 420,
     "forks_count": 270
   },
   {
     "full_name": "supabase/cli",
-    "stargazers_count": 122,
-    "open_issues_count": 31,
+    "stargazers_count": 123,
+    "open_issues_count": 32,
     "forks_count": 23
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 1396,
+    "stargazers_count": 1400,
     "open_issues_count": 32,
     "forks_count": 55
   },
@@ -91,19 +103,19 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2865,
-    "open_issues_count": 132,
-    "forks_count": 940
+    "stargazers_count": 2866,
+    "open_issues_count": 130,
+    "forks_count": 941
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 44017,
-    "open_issues_count": 96,
-    "forks_count": 4745
+    "stargazers_count": 44024,
+    "open_issues_count": 99,
+    "forks_count": 4747
   },
   {
     "full_name": "express-labs/pure-react-carousel",
-    "stargazers_count": 1305,
+    "stargazers_count": 1306,
     "open_issues_count": 24,
     "forks_count": 128
   },
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "jonasmerlin/astro-seo",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "mikaelbr/node-notifier",
-    "stargazers_count": 5309,
+    "stargazers_count": 5310,
     "open_issues_count": 97,
     "forks_count": 316
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 10089,
-    "open_issues_count": 131,
-    "forks_count": 484
+    "stargazers_count": 10096,
+    "open_issues_count": 134,
+    "forks_count": 485
   },
   {
     "full_name": "bensmithett/tropical",
@@ -166,17 +178,5 @@
     "stargazers_count": 323,
     "open_issues_count": 3,
     "forks_count": 28
-  },
-  {
-    "full_name": "GoogleChrome/web-vitals",
-    "stargazers_count": 4446,
-    "open_issues_count": 17,
-    "forks_count": 193
-  },
-  {
-    "full_name": "isaacs/node-glob",
-    "stargazers_count": 7340,
-    "open_issues_count": 128,
-    "forks_count": 461
   }
 ]
