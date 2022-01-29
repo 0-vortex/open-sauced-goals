@@ -1,7 +1,7 @@
 [
   {
     "full_name": "antfu/utils",
-    "stargazers_count": 146,
+    "stargazers_count": 148,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -26,7 +26,7 @@
   {
     "full_name": "RapidAPI/DevRel-Examples-External",
     "stargazers_count": 13,
-    "open_issues_count": 1,
+    "open_issues_count": 29,
     "forks_count": 6
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 17690,
+    "stargazers_count": 17695,
     "open_issues_count": 73,
     "forks_count": 479
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 1727,
+    "stargazers_count": 1747,
     "open_issues_count": 6,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "redkubes/otomi-core",
-    "stargazers_count": 592,
+    "stargazers_count": 595,
     "open_issues_count": 39,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "cantidosan/home-app",
@@ -63,7 +63,7 @@
     "full_name": "dominikwilkowski/cfonts",
     "stargazers_count": 971,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "wyozi/react-pptx",
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 3143,
-    "open_issues_count": 420,
+    "stargazers_count": 3147,
+    "open_issues_count": 423,
     "forks_count": 270
   },
   {
     "full_name": "supabase/cli",
-    "stargazers_count": 123,
-    "open_issues_count": 32,
+    "stargazers_count": 124,
+    "open_issues_count": 31,
     "forks_count": 23
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 1400,
-    "open_issues_count": 32,
+    "stargazers_count": 1411,
+    "open_issues_count": 33,
     "forks_count": 55
   },
   {
     "full_name": "futurepress/epub.js",
-    "stargazers_count": 4802,
+    "stargazers_count": 4804,
     "open_issues_count": 396,
     "forks_count": 929
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
     "stargazers_count": 2866,
-    "open_issues_count": 130,
-    "forks_count": 941
+    "open_issues_count": 129,
+    "forks_count": 942
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 44024,
-    "open_issues_count": 99,
-    "forks_count": 4747
+    "stargazers_count": 44056,
+    "open_issues_count": 95,
+    "forks_count": 4755
   },
   {
     "full_name": "express-labs/pure-react-carousel",
@@ -129,7 +129,7 @@
     "full_name": "RafidMuhymin/astro-spa",
     "stargazers_count": 31,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "jonasmerlin/astro-seo",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "mikaelbr/node-notifier",
-    "stargazers_count": 5310,
+    "stargazers_count": 5311,
     "open_issues_count": 97,
     "forks_count": 316
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 10096,
-    "open_issues_count": 134,
-    "forks_count": 485
+    "stargazers_count": 10118,
+    "open_issues_count": 119,
+    "forks_count": 488
   },
   {
     "full_name": "bensmithett/tropical",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4608,
+    "stargazers_count": 4610,
     "open_issues_count": 169,
     "forks_count": 332
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "GoogleChromeLabs/web-vitals-report",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 3,
     "forks_count": 28
   }
