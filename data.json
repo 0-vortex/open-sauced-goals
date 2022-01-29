@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "antfu/utils",
+    "stargazers_count": 148,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "open-sauced/hot",
     "stargazers_count": 41,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 19
   },
   {
@@ -19,32 +25,32 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3194,
-    "open_issues_count": 163,
+    "stargazers_count": 3195,
+    "open_issues_count": 164,
     "forks_count": 174
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3194,
-    "open_issues_count": 163,
+    "stargazers_count": 3195,
+    "open_issues_count": 164,
     "forks_count": 174
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3194,
-    "open_issues_count": 163,
+    "stargazers_count": 3195,
+    "open_issues_count": 164,
     "forks_count": 174
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3194,
-    "open_issues_count": 163,
+    "stargazers_count": 3195,
+    "open_issues_count": 164,
     "forks_count": 174
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3194,
-    "open_issues_count": 163,
+    "stargazers_count": 3195,
+    "open_issues_count": 164,
     "forks_count": 174
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 125679,
+    "stargazers_count": 125920,
     "open_issues_count": 322,
-    "forks_count": 41098
+    "forks_count": 41147
   },
   {
     "full_name": "Team-TAU/tau",
