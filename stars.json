@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "npm/npm-remote-ls",
+    "stargazers_count": 82,
+    "open_issues_count": 18,
+    "forks_count": 33
+  },
+  {
+    "full_name": "snyk/jobs",
+    "stargazers_count": 36,
+    "open_issues_count": 2,
+    "forks_count": 67
+  },
+  {
+    "full_name": "propjockey/augmented-ui",
+    "stargazers_count": 939,
+    "open_issues_count": 0,
+    "forks_count": 45
+  },
+  {
     "full_name": "OpenDebates/openskill.py",
-    "stargazers_count": 60,
+    "stargazers_count": 92,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "Jaysmito101/TerraForge3D",
-    "stargazers_count": 171,
+    "stargazers_count": 175,
     "open_issues_count": 5,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "0-vortex/open-sauced-supabase-cron-test",
@@ -27,17 +45,17 @@
     "full_name": "netlify/labs",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "roottusk/vapi",
-    "stargazers_count": 434,
+    "stargazers_count": 458,
     "open_issues_count": 1,
-    "forks_count": 60
+    "forks_count": 64
   },
   {
     "full_name": "antfu/utils",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -61,7 +79,7 @@
   },
   {
     "full_name": "RapidAPI/DevRel-Examples-External",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -73,19 +91,19 @@
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 17697,
-    "open_issues_count": 73,
-    "forks_count": 478
+    "stargazers_count": 17707,
+    "open_issues_count": 69,
+    "forks_count": 477
   },
   {
     "full_name": "ngneat/falso",
-    "stargazers_count": 1782,
-    "open_issues_count": 6,
-    "forks_count": 48
+    "stargazers_count": 1849,
+    "open_issues_count": 7,
+    "forks_count": 51
   },
   {
     "full_name": "redkubes/otomi-core",
-    "stargazers_count": 597,
+    "stargazers_count": 600,
     "open_issues_count": 39,
     "forks_count": 33
   },
@@ -97,7 +115,7 @@
   },
   {
     "full_name": "dominikwilkowski/cfonts",
-    "stargazers_count": 972,
+    "stargazers_count": 973,
     "open_issues_count": 0,
     "forks_count": 43
   },
@@ -109,74 +127,56 @@
   },
   {
     "full_name": "steveruizok/perfect-cursors",
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 3147,
-    "open_issues_count": 423,
-    "forks_count": 270
+    "stargazers_count": 3157,
+    "open_issues_count": 424,
+    "forks_count": 271
   },
   {
     "full_name": "supabase/cli",
-    "stargazers_count": 126,
-    "open_issues_count": 31,
-    "forks_count": 23
+    "stargazers_count": 127,
+    "open_issues_count": 36,
+    "forks_count": 25
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 1414,
+    "stargazers_count": 1424,
     "open_issues_count": 31,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "futurepress/epub.js",
-    "stargazers_count": 4806,
+    "stargazers_count": 4808,
     "open_issues_count": 396,
     "forks_count": 927
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2869,
+    "stargazers_count": 2876,
     "open_issues_count": 129,
-    "forks_count": 944
+    "forks_count": 948
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 44077,
-    "open_issues_count": 98,
-    "forks_count": 4754
+    "stargazers_count": 44136,
+    "open_issues_count": 106,
+    "forks_count": 4767
   },
   {
     "full_name": "express-labs/pure-react-carousel",
-    "stargazers_count": 1306,
+    "stargazers_count": 1307,
     "open_issues_count": 24,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "ukmadlz/beer-bot",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "RafidMuhymin/astro-spa",
-    "stargazers_count": 31,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "jonasmerlin/astro-seo",
-    "stargazers_count": 111,
-    "open_issues_count": 3,
-    "forks_count": 8
-  },
-  {
-    "full_name": "mikaelbr/node-notifier",
-    "stargazers_count": 5314,
-    "open_issues_count": 97,
-    "forks_count": 316
   }
 ]
