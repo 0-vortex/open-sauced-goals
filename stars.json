@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "allenai/macaw",
+    "stargazers_count": 343,
+    "open_issues_count": 3,
+    "forks_count": 37
+  },
+  {
+    "full_name": "akreienbring/dbdesigner",
+    "stargazers_count": 10,
+    "open_issues_count": 7,
+    "forks_count": 2
+  },
+  {
+    "full_name": "djrobstep/migra",
+    "stargazers_count": 2111,
+    "open_issues_count": 66,
+    "forks_count": 90
+  },
+  {
+    "full_name": "yandex/pgmigrate",
+    "stargazers_count": 516,
+    "open_issues_count": 0,
+    "forks_count": 57
+  },
+  {
+    "full_name": "rdagumampan/yuniql",
+    "stargazers_count": 225,
+    "open_issues_count": 70,
+    "forks_count": 38
+  },
+  {
+    "full_name": "sqitchers/sqitch",
+    "stargazers_count": 2344,
+    "open_issues_count": 74,
+    "forks_count": 189
+  },
+  {
+    "full_name": "dimitri/pgloader",
+    "stargazers_count": 3838,
+    "open_issues_count": 227,
+    "forks_count": 439
+  },
+  {
+    "full_name": "rapidloop/pgmetrics",
+    "stargazers_count": 724,
+    "open_issues_count": 8,
+    "forks_count": 42
+  },
+  {
+    "full_name": "bluxmit/alnoda-workspaces",
+    "stargazers_count": 529,
+    "open_issues_count": 4,
+    "forks_count": 55
+  },
+  {
+    "full_name": "open-sauced/catsup-app",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "DevanshBajaj/NFTshills",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -7,21 +67,21 @@
   },
   {
     "full_name": "ihucos/counter.dev",
-    "stargazers_count": 501,
+    "stargazers_count": 506,
     "open_issues_count": 18,
     "forks_count": 17
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 13375,
-    "open_issues_count": 43,
+    "stargazers_count": 13393,
+    "open_issues_count": 41,
     "forks_count": 1793
   },
   {
     "full_name": "opensearch-project/OpenSearch",
-    "stargazers_count": 4498,
-    "open_issues_count": 372,
-    "forks_count": 466
+    "stargazers_count": 4521,
+    "open_issues_count": 382,
+    "forks_count": 470
   },
   {
     "full_name": "antfu/vite-plugin-optimize-persist",
@@ -31,9 +91,9 @@
   },
   {
     "full_name": "rollup/plugins",
-    "stargazers_count": 2338,
-    "open_issues_count": 51,
-    "forks_count": 376
+    "stargazers_count": 2340,
+    "open_issues_count": 52,
+    "forks_count": 381
   },
   {
     "full_name": "hex-ci/vite-plugin-virtual-html-template",
@@ -44,26 +104,26 @@
   {
     "full_name": "windsonR/vite-plugin-virtual-html",
     "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "open_issues_count": 1,
+    "forks_count": 6
   },
   {
     "full_name": "mcollina/hyperid",
-    "stargazers_count": 552,
+    "stargazers_count": 555,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "bytebase/star-history",
-    "stargazers_count": 2685,
-    "open_issues_count": 11,
-    "forks_count": 157
+    "stargazers_count": 2692,
+    "open_issues_count": 10,
+    "forks_count": 156
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 5496,
+    "stargazers_count": 5508,
     "open_issues_count": 16,
-    "forks_count": 125
+    "forks_count": 127
   },
   {
     "full_name": "vadimdemedes/patch-console",
@@ -79,8 +139,8 @@
   },
   {
     "full_name": "schemathesis/schemathesis",
-    "stargazers_count": 1152,
-    "open_issues_count": 111,
+    "stargazers_count": 1156,
+    "open_issues_count": 116,
     "forks_count": 89
   },
   {
@@ -91,15 +151,9 @@
   },
   {
     "full_name": "nabla/vite-plugin-eslint",
-    "stargazers_count": 34,
-    "open_issues_count": 0,
+    "stargazers_count": 35,
+    "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "bdougie/catsup",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   },
   {
     "full_name": "open-sauced/release",
@@ -109,7 +163,7 @@
   },
   {
     "full_name": "k1LoW/tbls",
-    "stargazers_count": 1254,
+    "stargazers_count": 1255,
     "open_issues_count": 16,
     "forks_count": 87
   },
@@ -117,66 +171,12 @@
     "full_name": "grassedge/generate-plantuml-action",
     "stargazers_count": 57,
     "open_issues_count": 16,
-    "forks_count": 81
+    "forks_count": 86
   },
   {
     "full_name": "Timmy/plantuml-action",
     "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "achiku/planter",
-    "stargazers_count": 440,
-    "open_issues_count": 3,
-    "forks_count": 34
-  },
-  {
-    "full_name": "schemaspy/schemaspy",
-    "stargazers_count": 2072,
-    "open_issues_count": 188,
-    "forks_count": 233
-  },
-  {
-    "full_name": "zernonia/supabase-schema",
-    "stargazers_count": 213,
-    "open_issues_count": 4,
-    "forks_count": 12
-  },
-  {
-    "full_name": "philihp/openskill.js",
-    "stargazers_count": 46,
-    "open_issues_count": 5,
-    "forks_count": 5
-  },
-  {
-    "full_name": "lucaburgio/iconoir",
-    "stargazers_count": 2244,
-    "open_issues_count": 23,
-    "forks_count": 71
-  },
-  {
-    "full_name": "nolanlawson/fuite",
-    "stargazers_count": 2854,
-    "open_issues_count": 10,
-    "forks_count": 49
-  },
-  {
-    "full_name": "npm/npm-remote-ls",
-    "stargazers_count": 82,
-    "open_issues_count": 18,
-    "forks_count": 33
-  },
-  {
-    "full_name": "snyk/jobs",
-    "stargazers_count": 36,
-    "open_issues_count": 2,
-    "forks_count": 67
-  },
-  {
-    "full_name": "propjockey/augmented-ui",
-    "stargazers_count": 944,
-    "open_issues_count": 0,
-    "forks_count": 45
   }
 ]
