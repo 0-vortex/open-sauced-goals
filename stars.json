@@ -1,8 +1,8 @@
 [
   {
     "full_name": "cloudflare/wrangler2",
-    "stargazers_count": 307,
-    "open_issues_count": 115,
+    "stargazers_count": 308,
+    "open_issues_count": 116,
     "forks_count": 40
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "neutraltone/awesome-stock-resources",
-    "stargazers_count": 10279,
+    "stargazers_count": 10283,
     "open_issues_count": 26,
     "forks_count": 725
   },
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "argenos/nldates-obsidian",
-    "stargazers_count": 155,
+    "stargazers_count": 157,
     "open_issues_count": 16,
     "forks_count": 21
   },
   {
     "full_name": "lynchjames/obsidian-mind-map",
-    "stargazers_count": 416,
+    "stargazers_count": 417,
     "open_issues_count": 63,
     "forks_count": 19
   },
   {
     "full_name": "tgrosinger/advanced-tables-obsidian",
-    "stargazers_count": 567,
-    "open_issues_count": 27,
+    "stargazers_count": 568,
+    "open_issues_count": 28,
     "forks_count": 22
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "denolehov/obsidian-git",
-    "stargazers_count": 1254,
+    "stargazers_count": 1255,
     "open_issues_count": 31,
     "forks_count": 70
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "github/roadmap",
-    "stargazers_count": 6369,
+    "stargazers_count": 6375,
     "open_issues_count": 133,
-    "forks_count": 744
+    "forks_count": 745
   },
   {
     "full_name": "gr2m/cloudflare-worker-github-app-example",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "Naereen/badges",
-    "stargazers_count": 3123,
+    "stargazers_count": 3124,
     "open_issues_count": 0,
     "forks_count": 462
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 8634,
+    "stargazers_count": 8664,
     "open_issues_count": 139,
-    "forks_count": 427
+    "forks_count": 428
   },
   {
     "full_name": "allenai/macaw",
