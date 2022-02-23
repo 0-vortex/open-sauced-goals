@@ -1,49 +1,49 @@
 [
   {
     "full_name": "brunosimon/my-room-in-3d",
-    "stargazers_count": 1784,
+    "stargazers_count": 1787,
     "open_issues_count": 8,
-    "forks_count": 183
+    "forks_count": 184
   },
   {
     "full_name": "ossf/oss-vulnerability-guide",
-    "stargazers_count": 49,
-    "open_issues_count": 4,
+    "stargazers_count": 51,
+    "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 23520,
-    "open_issues_count": 16,
-    "forks_count": 5128
+    "stargazers_count": 23533,
+    "open_issues_count": 17,
+    "forks_count": 5134
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 21617,
-    "open_issues_count": 97,
+    "stargazers_count": 21630,
+    "open_issues_count": 98,
     "forks_count": 1084
   },
   {
     "full_name": "ntedgi/node-efficientnet",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 13,
     "forks_count": 15
   },
   {
     "full_name": "cloudflare/wrangler2",
-    "stargazers_count": 309,
-    "open_issues_count": 113,
+    "stargazers_count": 310,
+    "open_issues_count": 115,
     "forks_count": 41
   },
   {
     "full_name": "probot/smee-client",
     "stargazers_count": 238,
     "open_issues_count": 23,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "neutraltone/awesome-stock-resources",
-    "stargazers_count": 10288,
+    "stargazers_count": 10292,
     "open_issues_count": 26,
     "forks_count": 725
   },
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "argenos/nldates-obsidian",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 16,
     "forks_count": 21
   },
   {
     "full_name": "lynchjames/obsidian-mind-map",
-    "stargazers_count": 420,
+    "stargazers_count": 421,
     "open_issues_count": 63,
     "forks_count": 20
   },
   {
     "full_name": "tgrosinger/advanced-tables-obsidian",
-    "stargazers_count": 577,
+    "stargazers_count": 578,
     "open_issues_count": 28,
     "forks_count": 22
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "denolehov/obsidian-git",
-    "stargazers_count": 1270,
+    "stargazers_count": 1277,
     "open_issues_count": 30,
-    "forks_count": 70
+    "forks_count": 69
   },
   {
     "full_name": "Darakah/obsidian-commits",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "github/roadmap",
-    "stargazers_count": 6385,
+    "stargazers_count": 6389,
     "open_issues_count": 133,
-    "forks_count": 752
+    "forks_count": 753
   },
   {
     "full_name": "gr2m/cloudflare-worker-github-app-example",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "Naereen/badges",
-    "stargazers_count": 3133,
+    "stargazers_count": 3134,
     "open_issues_count": 0,
     "forks_count": 461
   },
