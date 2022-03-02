@@ -1,27 +1,27 @@
 [
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2963,
+    "stargazers_count": 2965,
     "open_issues_count": 20,
     "forks_count": 88
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9415,
+    "stargazers_count": 9414,
     "open_issues_count": 39,
     "forks_count": 396
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 3948,
-    "open_issues_count": 8,
+    "stargazers_count": 3965,
+    "open_issues_count": 7,
     "forks_count": 393
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 991,
+    "stargazers_count": 990,
     "open_issues_count": 166,
-    "forks_count": 471
+    "forks_count": 470
   },
   {
     "full_name": "huihzhao/2035",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1623,
+    "stargazers_count": 1624,
     "open_issues_count": 32,
     "forks_count": 116
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5174,
-    "open_issues_count": 263,
-    "forks_count": 296
+    "stargazers_count": 5205,
+    "open_issues_count": 268,
+    "forks_count": 298
   },
   {
     "full_name": "0-vortex/open-sauced-vite-ts-template-test",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1442,
+    "stargazers_count": 1446,
     "open_issues_count": 7,
     "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
     "stargazers_count": 934,
-    "open_issues_count": 44,
+    "open_issues_count": 46,
     "forks_count": 63
   },
   {
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 1499,
-    "open_issues_count": 6,
-    "forks_count": 439
+    "stargazers_count": 1804,
+    "open_issues_count": 9,
+    "forks_count": 486
   },
   {
     "full_name": "web3-storage/ipfs-elastic-provider-infrastructure",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "benbrignell/principles.design",
-    "stargazers_count": 1091,
+    "stargazers_count": 1092,
     "open_issues_count": 23,
     "forks_count": 166
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 1924,
+    "stargazers_count": 1941,
     "open_issues_count": 2,
     "forks_count": 44
   },
   {
     "full_name": "brunosimon/my-room-in-3d",
-    "stargazers_count": 1793,
+    "stargazers_count": 1797,
     "open_issues_count": 8,
-    "forks_count": 186
+    "forks_count": 187
   },
   {
     "full_name": "ossf/oss-vulnerability-guide",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 23587,
-    "open_issues_count": 13,
-    "forks_count": 5141
+    "stargazers_count": 23594,
+    "open_issues_count": 12,
+    "forks_count": 5140
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 21672,
-    "open_issues_count": 103,
-    "forks_count": 1085
+    "stargazers_count": 21684,
+    "open_issues_count": 104,
+    "forks_count": 1086
   },
   {
     "full_name": "ntedgi/node-efficientnet",
@@ -164,7 +164,7 @@
   {
     "full_name": "cloudflare/wrangler2",
     "stargazers_count": 318,
-    "open_issues_count": 116,
+    "open_issues_count": 117,
     "forks_count": 41
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "neutraltone/awesome-stock-resources",
-    "stargazers_count": 10296,
+    "stargazers_count": 10299,
     "open_issues_count": 26,
     "forks_count": 726
   }
