@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "snyk/awesome-snyk-community",
+    "stargazers_count": 26,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 226,
-    "open_issues_count": 0,
+    "stargazers_count": 231,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5079,
-    "open_issues_count": 88,
+    "stargazers_count": 5086,
+    "open_issues_count": 89,
     "forks_count": 500
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 31992,
+    "stargazers_count": 32074,
     "open_issues_count": 2,
-    "forks_count": 2682
+    "forks_count": 2688
   },
   {
     "full_name": "axentix/axentix",
@@ -31,25 +37,25 @@
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2966,
+    "stargazers_count": 2967,
     "open_issues_count": 21,
     "forks_count": 88
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9417,
+    "stargazers_count": 9418,
     "open_issues_count": 39,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4003,
-    "open_issues_count": 7,
-    "forks_count": 400
+    "stargazers_count": 4029,
+    "open_issues_count": 6,
+    "forks_count": 406
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 991,
+    "stargazers_count": 993,
     "open_issues_count": 165,
     "forks_count": 472
   },
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1625,
+    "stargazers_count": 1628,
     "open_issues_count": 32,
     "forks_count": 117
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5245,
+    "stargazers_count": 5268,
     "open_issues_count": 271,
-    "forks_count": 299
+    "forks_count": 300
   },
   {
     "full_name": "0-vortex/open-sauced-vite-ts-template-test",
@@ -87,29 +93,29 @@
     "full_name": "Trevato/CSGOMLBot",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "originjs/vite-plugins",
-    "stargazers_count": 56,
+    "stargazers_count": 59,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1451,
+    "stargazers_count": 1469,
     "open_issues_count": 8,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
-    "stargazers_count": 935,
+    "stargazers_count": 937,
     "open_issues_count": 46,
     "forks_count": 63
   },
   {
     "full_name": "jvidalv/vital",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "robinweser/fela",
-    "stargazers_count": 2145,
+    "stargazers_count": 2147,
     "open_issues_count": 11,
     "forks_count": 189
   },
   {
     "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 2336,
-    "open_issues_count": 15,
-    "forks_count": 567
+    "stargazers_count": 2492,
+    "open_issues_count": 8,
+    "forks_count": 609
   },
   {
     "full_name": "web3-storage/ipfs-elastic-provider-infrastructure",
@@ -145,25 +151,25 @@
   },
   {
     "full_name": "benbrignell/principles.design",
-    "stargazers_count": 1093,
+    "stargazers_count": 1094,
     "open_issues_count": 23,
     "forks_count": 167
   },
   {
     "full_name": "kachkaev/njt",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 2043,
-    "open_issues_count": 2,
+    "stargazers_count": 2075,
+    "open_issues_count": 3,
     "forks_count": 46
   },
   {
     "full_name": "brunosimon/my-room-in-3d",
-    "stargazers_count": 1798,
+    "stargazers_count": 1804,
     "open_issues_count": 8,
     "forks_count": 188
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 50,
     "open_issues_count": 2,
     "forks_count": 12
-  },
-  {
-    "full_name": "pcottle/learnGitBranching",
-    "stargazers_count": 23613,
-    "open_issues_count": 12,
-    "forks_count": 5145
   }
 ]
