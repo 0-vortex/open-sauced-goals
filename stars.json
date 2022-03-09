@@ -1,27 +1,27 @@
 [
   {
     "full_name": "snyk/awesome-snyk-community",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 231,
+    "stargazers_count": 234,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5086,
+    "stargazers_count": 5092,
     "open_issues_count": 89,
     "forks_count": 500
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32074,
-    "open_issues_count": 2,
-    "forks_count": 2688
+    "stargazers_count": 32116,
+    "open_issues_count": 3,
+    "forks_count": 2693
   },
   {
     "full_name": "axentix/axentix",
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "whitep4nth3r/womenofjamstack",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 14,
+    "open_issues_count": 1,
+    "forks_count": 10
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2967,
+    "stargazers_count": 2968,
     "open_issues_count": 21,
     "forks_count": 88
   },
@@ -45,11 +45,11 @@
     "full_name": "addyosmani/critical",
     "stargazers_count": 9418,
     "open_issues_count": 39,
-    "forks_count": 397
+    "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4029,
+    "stargazers_count": 4041,
     "open_issues_count": 6,
     "forks_count": 406
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "0-vortex/open-sauced-hot-vite-ts-test",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1628,
+    "stargazers_count": 1629,
     "open_issues_count": 32,
     "forks_count": 117
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5268,
-    "open_issues_count": 271,
-    "forks_count": 300
+    "stargazers_count": 5273,
+    "open_issues_count": 272,
+    "forks_count": 301
   },
   {
     "full_name": "0-vortex/open-sauced-vite-ts-template-test",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1469,
+    "stargazers_count": 1474,
     "open_issues_count": 8,
     "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
-    "stargazers_count": 937,
+    "stargazers_count": 939,
     "open_issues_count": 46,
     "forks_count": 63
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "robinweser/fela",
-    "stargazers_count": 2147,
+    "stargazers_count": 2148,
     "open_issues_count": 11,
     "forks_count": 189
   },
   {
     "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 2492,
-    "open_issues_count": 8,
-    "forks_count": 609
+    "stargazers_count": 2555,
+    "open_issues_count": 7,
+    "forks_count": 622
   },
   {
     "full_name": "web3-storage/ipfs-elastic-provider-infrastructure",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "benbrignell/principles.design",
-    "stargazers_count": 1094,
+    "stargazers_count": 1093,
     "open_issues_count": 23,
     "forks_count": 167
   },
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "soheilpro/mailwind",
-    "stargazers_count": 2075,
+    "stargazers_count": 2085,
     "open_issues_count": 3,
     "forks_count": 46
   },
   {
     "full_name": "brunosimon/my-room-in-3d",
-    "stargazers_count": 1804,
+    "stargazers_count": 1808,
     "open_issues_count": 8,
     "forks_count": 188
   },
