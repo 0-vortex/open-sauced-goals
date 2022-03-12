@@ -3,7 +3,7 @@
     "full_name": "bdougie/github-login-test",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "Clovis-team/clovis-open-code-extracts",
@@ -20,25 +20,25 @@
   {
     "full_name": "spack/spack",
     "stargazers_count": 2560,
-    "open_issues_count": 2357,
-    "forks_count": 1558
+    "open_issues_count": 2360,
+    "forks_count": 1559
   },
   {
     "full_name": "redwoodjs/redwood",
     "stargazers_count": 11160,
-    "open_issues_count": 305,
+    "open_issues_count": 306,
     "forks_count": 467
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1080,
+    "stargazers_count": 1081,
     "open_issues_count": 10,
     "forks_count": 276
   },
   {
     "full_name": "solo-io/gloo",
     "stargazers_count": 3311,
-    "open_issues_count": 974,
+    "open_issues_count": 973,
     "forks_count": 327
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9419,
+    "stargazers_count": 9420,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4102,
+    "stargazers_count": 4103,
     "open_issues_count": 6,
-    "forks_count": 410
+    "forks_count": 411
   },
   {
     "full_name": "discord/discord-open-source",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 2693,
-    "open_issues_count": 11,
-    "forks_count": 654
+    "stargazers_count": 2700,
+    "open_issues_count": 12,
+    "forks_count": 656
   }
 ]
