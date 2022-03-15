@@ -1,20 +1,20 @@
 [
   {
     "full_name": "OpenDebates/openskill.py",
-    "stargazers_count": 115,
-    "open_issues_count": 1,
+    "stargazers_count": 116,
+    "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "antfu/utils",
-    "stargazers_count": 173,
+    "stargazers_count": 176,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 49,
-    "open_issues_count": 22,
+    "open_issues_count": 24,
     "forks_count": 22
   },
   {
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3536,
-    "open_issues_count": 182,
-    "forks_count": 188
+    "stargazers_count": 3560,
+    "open_issues_count": 176,
+    "forks_count": 187
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3536,
-    "open_issues_count": 182,
-    "forks_count": 188
+    "stargazers_count": 3560,
+    "open_issues_count": 176,
+    "forks_count": 187
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3536,
-    "open_issues_count": 182,
-    "forks_count": 188
+    "stargazers_count": 3560,
+    "open_issues_count": 176,
+    "forks_count": 187
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3536,
-    "open_issues_count": 182,
-    "forks_count": 188
+    "stargazers_count": 3560,
+    "open_issues_count": 176,
+    "forks_count": 187
   },
   {
     "full_name": "wez/wezterm",
-    "stargazers_count": 3536,
-    "open_issues_count": 182,
-    "forks_count": 188
+    "stargazers_count": 3560,
+    "open_issues_count": 176,
+    "forks_count": 187
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 128322,
+    "stargazers_count": 128567,
     "open_issues_count": 319,
-    "forks_count": 41913
+    "forks_count": 41954
   },
   {
     "full_name": "Team-TAU/tau",
