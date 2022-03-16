@@ -13,57 +13,57 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 811,
+    "stargazers_count": 815,
     "open_issues_count": 43,
     "forks_count": 89
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2564,
-    "open_issues_count": 2365,
+    "stargazers_count": 2567,
+    "open_issues_count": 2376,
     "forks_count": 1561
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11186,
-    "open_issues_count": 315,
-    "forks_count": 468
+    "stargazers_count": 11197,
+    "open_issues_count": 309,
+    "forks_count": 470
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1081,
+    "stargazers_count": 1080,
     "open_issues_count": 10,
     "forks_count": 276
   },
   {
     "full_name": "solo-io/gloo",
-    "stargazers_count": 3313,
+    "stargazers_count": 3314,
     "open_issues_count": 978,
     "forks_count": 327
   },
   {
     "full_name": "snyk/awesome-snyk-community",
-    "stargazers_count": 30,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 240,
+    "stargazers_count": 242,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5109,
+    "stargazers_count": 5113,
     "open_issues_count": 89,
-    "forks_count": 503
+    "forks_count": 504
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32275,
+    "stargazers_count": 32288,
     "open_issues_count": 4,
-    "forks_count": 2714
+    "forks_count": 2715
   },
   {
     "full_name": "axentix/axentix",
@@ -74,32 +74,32 @@
   {
     "full_name": "whitep4nth3r/womenofjamstack",
     "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 15
+    "open_issues_count": 1,
+    "forks_count": 16
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2973,
+    "stargazers_count": 2974,
     "open_issues_count": 21,
     "forks_count": 87
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9422,
+    "stargazers_count": 9423,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4148,
+    "stargazers_count": 4159,
     "open_issues_count": 6,
-    "forks_count": 414
+    "forks_count": 415
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 1001,
-    "open_issues_count": 166,
-    "forks_count": 529
+    "stargazers_count": 1002,
+    "open_issues_count": 167,
+    "forks_count": 539
   },
   {
     "full_name": "huihzhao/2035",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1637,
+    "stargazers_count": 1638,
     "open_issues_count": 32,
     "forks_count": 118
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5297,
-    "open_issues_count": 274,
+    "stargazers_count": 5302,
+    "open_issues_count": 275,
     "forks_count": 303
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1480,
-    "open_issues_count": 9,
+    "stargazers_count": 1481,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 2864,
-    "open_issues_count": 17,
-    "forks_count": 682
+    "stargazers_count": 2932,
+    "open_issues_count": 15,
+    "forks_count": 689
   }
 ]
