@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "snyk/actions",
+    "stargazers_count": 231,
+    "open_issues_count": 23,
+    "forks_count": 96
+  },
+  {
     "full_name": "bdougie/github-login-test",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -13,21 +19,21 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 815,
-    "open_issues_count": 43,
+    "stargazers_count": 823,
+    "open_issues_count": 44,
     "forks_count": 89
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2567,
-    "open_issues_count": 2376,
-    "forks_count": 1561
+    "stargazers_count": 2569,
+    "open_issues_count": 2386,
+    "forks_count": 1560
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11197,
-    "open_issues_count": 309,
-    "forks_count": 470
+    "stargazers_count": 11213,
+    "open_issues_count": 303,
+    "forks_count": 472
   },
   {
     "full_name": "nickboucher/trojan-source",
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "solo-io/gloo",
-    "stargazers_count": 3314,
-    "open_issues_count": 978,
+    "stargazers_count": 3316,
+    "open_issues_count": 985,
     "forks_count": 327
   },
   {
     "full_name": "snyk/awesome-snyk-community",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5113,
+    "stargazers_count": 5118,
     "open_issues_count": 89,
-    "forks_count": 504
+    "forks_count": 503
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32288,
+    "stargazers_count": 32335,
     "open_issues_count": 4,
-    "forks_count": 2715
+    "forks_count": 2726
   },
   {
     "full_name": "axentix/axentix",
@@ -73,33 +79,33 @@
   },
   {
     "full_name": "whitep4nth3r/womenofjamstack",
-    "stargazers_count": 16,
-    "open_issues_count": 1,
-    "forks_count": 16
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 17
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2974,
+    "stargazers_count": 2975,
     "open_issues_count": 21,
     "forks_count": 87
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9423,
+    "stargazers_count": 9424,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4159,
-    "open_issues_count": 6,
-    "forks_count": 415
+    "stargazers_count": 4188,
+    "open_issues_count": 7,
+    "forks_count": 426
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 1002,
+    "stargazers_count": 1004,
     "open_issues_count": 167,
-    "forks_count": 539
+    "forks_count": 545
   },
   {
     "full_name": "huihzhao/2035",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5302,
-    "open_issues_count": 275,
-    "forks_count": 303
+    "stargazers_count": 5309,
+    "open_issues_count": 278,
+    "forks_count": 304
   },
   {
     "full_name": "0-vortex/open-sauced-vite-ts-template-test",
@@ -139,19 +145,19 @@
   },
   {
     "full_name": "originjs/vite-plugins",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 11,
     "forks_count": 17
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1481,
+    "stargazers_count": 1480,
     "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
-    "stargazers_count": 940,
+    "stargazers_count": 946,
     "open_issues_count": 46,
     "forks_count": 63
   },
@@ -159,7 +165,7 @@
     "full_name": "jvidalv/vital",
     "stargazers_count": 96,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "rizkimcitra/stravital",
@@ -172,11 +178,5 @@
     "stargazers_count": 2150,
     "open_issues_count": 11,
     "forks_count": 189
-  },
-  {
-    "full_name": "MHProDev/MHDDoS",
-    "stargazers_count": 2932,
-    "open_issues_count": 15,
-    "forks_count": 689
   }
 ]
