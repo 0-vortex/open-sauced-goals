@@ -1,26 +1,26 @@
 [
   {
     "full_name": "googleapis/google-cloud-node",
-    "stargazers_count": 2386,
+    "stargazers_count": 2387,
     "open_issues_count": 26,
     "forks_count": 495
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2788,
-    "open_issues_count": 203,
-    "forks_count": 1008
+    "stargazers_count": 2791,
+    "open_issues_count": 207,
+    "forks_count": 1009
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 8198,
-    "open_issues_count": 187,
-    "forks_count": 600
+    "stargazers_count": 8567,
+    "open_issues_count": 181,
+    "forks_count": 624
   },
   {
     "full_name": "snyk/actions",
-    "stargazers_count": 232,
-    "open_issues_count": 22,
+    "stargazers_count": 234,
+    "open_issues_count": 23,
     "forks_count": 98
   },
   {
@@ -37,93 +37,93 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 835,
+    "stargazers_count": 842,
     "open_issues_count": 42,
     "forks_count": 91
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2577,
-    "open_issues_count": 2367,
-    "forks_count": 1563
+    "stargazers_count": 2582,
+    "open_issues_count": 2379,
+    "forks_count": 1566
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11259,
-    "open_issues_count": 312,
-    "forks_count": 479
+    "stargazers_count": 11290,
+    "open_issues_count": 323,
+    "forks_count": 481
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1081,
+    "stargazers_count": 1082,
     "open_issues_count": 10,
     "forks_count": 273
   },
   {
     "full_name": "solo-io/gloo",
-    "stargazers_count": 3327,
-    "open_issues_count": 994,
-    "forks_count": 329
+    "stargazers_count": 3328,
+    "open_issues_count": 1001,
+    "forks_count": 330
   },
   {
     "full_name": "snyk/awesome-snyk-community",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 248,
+    "stargazers_count": 251,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5126,
+    "stargazers_count": 5131,
     "open_issues_count": 89,
     "forks_count": 503
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32449,
+    "stargazers_count": 32500,
     "open_issues_count": 4,
-    "forks_count": 2744
+    "forks_count": 2750
   },
   {
     "full_name": "axentix/axentix",
     "stargazers_count": 143,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "whitep4nth3r/womenofjamstack",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2978,
+    "stargazers_count": 2980,
     "open_issues_count": 21,
     "forks_count": 87
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9423,
+    "stargazers_count": 9426,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4274,
-    "open_issues_count": 8,
-    "forks_count": 433
+    "stargazers_count": 4302,
+    "open_issues_count": 6,
+    "forks_count": 434
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 1010,
-    "open_issues_count": 167,
-    "forks_count": 549
+    "stargazers_count": 1013,
+    "open_issues_count": 168,
+    "forks_count": 552
   },
   {
     "full_name": "huihzhao/2035",
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1638,
+    "stargazers_count": 1639,
     "open_issues_count": 32,
     "forks_count": 118
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5322,
-    "open_issues_count": 280,
+    "stargazers_count": 5328,
+    "open_issues_count": 281,
     "forks_count": 307
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1484,
+    "stargazers_count": 1485,
     "open_issues_count": 11,
     "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
-    "stargazers_count": 947,
+    "stargazers_count": 948,
     "open_issues_count": 46,
     "forks_count": 63
   }
