@@ -7,19 +7,19 @@
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2791,
-    "open_issues_count": 207,
+    "stargazers_count": 2795,
+    "open_issues_count": 208,
     "forks_count": 1009
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 8567,
-    "open_issues_count": 181,
-    "forks_count": 624
+    "stargazers_count": 8611,
+    "open_issues_count": 180,
+    "forks_count": 628
   },
   {
     "full_name": "snyk/actions",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 23,
     "forks_count": 98
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 842,
+    "stargazers_count": 844,
     "open_issues_count": 42,
     "forks_count": 91
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2582,
-    "open_issues_count": 2379,
-    "forks_count": 1566
+    "stargazers_count": 2584,
+    "open_issues_count": 2386,
+    "forks_count": 1567
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11290,
-    "open_issues_count": 323,
-    "forks_count": 481
+    "stargazers_count": 11299,
+    "open_issues_count": 322,
+    "forks_count": 482
   },
   {
     "full_name": "nickboucher/trojan-source",
@@ -62,8 +62,8 @@
   {
     "full_name": "solo-io/gloo",
     "stargazers_count": 3328,
-    "open_issues_count": 1001,
-    "forks_count": 330
+    "open_issues_count": 1000,
+    "forks_count": 332
   },
   {
     "full_name": "snyk/awesome-snyk-community",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5131,
+    "stargazers_count": 5133,
     "open_issues_count": 89,
     "forks_count": 503
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32500,
+    "stargazers_count": 32512,
     "open_issues_count": 4,
-    "forks_count": 2750
+    "forks_count": 2751
   },
   {
     "full_name": "axentix/axentix",
-    "stargazers_count": 143,
-    "open_issues_count": 2,
+    "stargazers_count": 144,
+    "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "whitep4nth3r/womenofjamstack",
     "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 22
+    "open_issues_count": 1,
+    "forks_count": 23
   },
   {
     "full_name": "GoogleChromeLabs/critters",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9426,
+    "stargazers_count": 9428,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4302,
+    "stargazers_count": 4313,
     "open_issues_count": 6,
-    "forks_count": 434
+    "forks_count": 436
   },
   {
     "full_name": "discord/discord-open-source",
     "stargazers_count": 1013,
     "open_issues_count": 168,
-    "forks_count": 552
+    "forks_count": 554
   },
   {
     "full_name": "huihzhao/2035",
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "feathericons/react-feather",
-    "stargazers_count": 1639,
+    "stargazers_count": 1640,
     "open_issues_count": 32,
     "forks_count": 118
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5328,
-    "open_issues_count": 281,
+    "stargazers_count": 5334,
+    "open_issues_count": 282,
     "forks_count": 307
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1485,
+    "stargazers_count": 1486,
     "open_issues_count": 11,
     "forks_count": 17
   },
   {
     "full_name": "jsartisan/react-native-magnus",
     "stargazers_count": 948,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 63
   }
 ]
