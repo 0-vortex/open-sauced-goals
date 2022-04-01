@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "open-sauced/landing-page",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1054,
-    "open_issues_count": 70,
-    "forks_count": 440
+    "stargazers_count": 1060,
+    "open_issues_count": 72,
+    "forks_count": 443
   },
   {
     "full_name": "snyk-labs/php-goof",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 14
   },
   {
     "full_name": "open-sauced/oscr",
@@ -19,26 +25,26 @@
   },
   {
     "full_name": "googleapis/google-cloud-node",
-    "stargazers_count": 2387,
+    "stargazers_count": 2389,
     "open_issues_count": 26,
     "forks_count": 496
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2799,
-    "open_issues_count": 204,
+    "stargazers_count": 2809,
+    "open_issues_count": 214,
     "forks_count": 1010
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 8760,
-    "open_issues_count": 194,
-    "forks_count": 645
+    "stargazers_count": 8854,
+    "open_issues_count": 173,
+    "forks_count": 655
   },
   {
     "full_name": "snyk/actions",
     "stargazers_count": 237,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 99
   },
   {
@@ -55,32 +61,32 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 849,
-    "open_issues_count": 41,
+    "stargazers_count": 858,
+    "open_issues_count": 40,
     "forks_count": 91
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2591,
-    "open_issues_count": 2398,
-    "forks_count": 1569
+    "stargazers_count": 2594,
+    "open_issues_count": 2388,
+    "forks_count": 1572
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11384,
-    "open_issues_count": 331,
-    "forks_count": 485
+    "stargazers_count": 11407,
+    "open_issues_count": 332,
+    "forks_count": 487
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1084,
+    "stargazers_count": 1085,
     "open_issues_count": 10,
     "forks_count": 273
   },
   {
     "full_name": "solo-io/gloo",
-    "stargazers_count": 3331,
-    "open_issues_count": 1000,
+    "stargazers_count": 3332,
+    "open_issues_count": 1012,
     "forks_count": 332
   },
   {
@@ -91,57 +97,57 @@
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5140,
+    "stargazers_count": 5148,
     "open_issues_count": 90,
-    "forks_count": 503
+    "forks_count": 504
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32597,
-    "open_issues_count": 5,
-    "forks_count": 2759
+    "stargazers_count": 32638,
+    "open_issues_count": 6,
+    "forks_count": 2765
   },
   {
     "full_name": "axentix/axentix",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "whitep4nth3r/womenofjamstack",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 2,
     "forks_count": 24
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2983,
+    "stargazers_count": 2984,
     "open_issues_count": 21,
     "forks_count": 87
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9429,
+    "stargazers_count": 9430,
     "open_issues_count": 40,
     "forks_count": 398
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4342,
-    "open_issues_count": 6,
-    "forks_count": 443
+    "stargazers_count": 4363,
+    "open_issues_count": 7,
+    "forks_count": 445
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 1015,
+    "stargazers_count": 1016,
     "open_issues_count": 170,
-    "forks_count": 557
+    "forks_count": 558
   },
   {
     "full_name": "huihzhao/2035",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "bytedance/IconPark",
-    "stargazers_count": 5354,
+    "stargazers_count": 5368,
     "open_issues_count": 284,
     "forks_count": 308
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Trevato/CSGOMLBot",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
