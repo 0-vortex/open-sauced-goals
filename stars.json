@@ -1,15 +1,15 @@
 [
   {
     "full_name": "npm/ini",
-    "stargazers_count": 621,
+    "stargazers_count": 633,
     "open_issues_count": 58,
-    "forks_count": 202
+    "forks_count": 203
   },
   {
     "full_name": "snyk/vervet",
     "stargazers_count": 7,
-    "open_issues_count": 19,
-    "forks_count": 2
+    "open_issues_count": 23,
+    "forks_count": 4
   },
   {
     "full_name": "open-sauced/landing-page",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1068,
-    "open_issues_count": 75,
-    "forks_count": 446
+    "stargazers_count": 1069,
+    "open_issues_count": 76,
+    "forks_count": 447
   },
   {
     "full_name": "snyk-labs/php-goof",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "open-sauced/oscr",
@@ -45,17 +45,17 @@
     "full_name": "googleapis/google-cloud-go",
     "stargazers_count": 2815,
     "open_issues_count": 220,
-    "forks_count": 1014
+    "forks_count": 1013
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 9069,
-    "open_issues_count": 196,
+    "stargazers_count": 9110,
+    "open_issues_count": 193,
     "forks_count": 685
   },
   {
     "full_name": "snyk/actions",
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "open_issues_count": 24,
     "forks_count": 103
   },
@@ -73,31 +73,31 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 886,
-    "open_issues_count": 36,
-    "forks_count": 91
+    "stargazers_count": 889,
+    "open_issues_count": 37,
+    "forks_count": 92
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2604,
-    "open_issues_count": 2402,
+    "stargazers_count": 2605,
+    "open_issues_count": 2410,
     "forks_count": 1581
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11748,
-    "open_issues_count": 344,
-    "forks_count": 507
+    "stargazers_count": 11802,
+    "open_issues_count": 351,
+    "forks_count": 516
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1084,
+    "stargazers_count": 1085,
     "open_issues_count": 10,
     "forks_count": 274
   },
   {
     "full_name": "solo-io/gloo",
-    "stargazers_count": 3336,
+    "stargazers_count": 3337,
     "open_issues_count": 1027,
     "forks_count": 338
   },
@@ -109,25 +109,25 @@
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 262,
+    "stargazers_count": 264,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5161,
+    "stargazers_count": 5165,
     "open_issues_count": 91,
-    "forks_count": 505
+    "forks_count": 507
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32748,
+    "stargazers_count": 32765,
     "open_issues_count": 6,
-    "forks_count": 2784
+    "forks_count": 2787
   },
   {
     "full_name": "axentix/axentix",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 3,
     "forks_count": 15
   },
@@ -140,24 +140,24 @@
   {
     "full_name": "GoogleChromeLabs/critters",
     "stargazers_count": 2988,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 88
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9433,
+    "stargazers_count": 9434,
     "open_issues_count": 40,
     "forks_count": 400
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4474,
-    "open_issues_count": 6,
-    "forks_count": 465
+    "stargazers_count": 4487,
+    "open_issues_count": 7,
+    "forks_count": 469
   },
   {
     "full_name": "discord/discord-open-source",
-    "stargazers_count": 1020,
+    "stargazers_count": 1021,
     "open_issues_count": 170,
     "forks_count": 560
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "feathericons/react-feather",
     "stargazers_count": 1645,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 119
   }
 ]
