@@ -1,7 +1,7 @@
 [
   {
     "full_name": "slackapi/bolt-js",
-    "stargazers_count": 2096,
+    "stargazers_count": 2099,
     "open_issues_count": 61,
     "forks_count": 307
   },
@@ -14,7 +14,7 @@
   {
     "full_name": "snyk/vervet",
     "stargazers_count": 7,
-    "open_issues_count": 21,
+    "open_issues_count": 19,
     "forks_count": 4
   },
   {
@@ -33,7 +33,7 @@
     "full_name": "snyk-labs/php-goof",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "open-sauced/oscr",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2817,
-    "open_issues_count": 220,
+    "stargazers_count": 2820,
+    "open_issues_count": 218,
     "forks_count": 1014
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 9244,
-    "open_issues_count": 193,
-    "forks_count": 694
+    "stargazers_count": 9307,
+    "open_issues_count": 203,
+    "forks_count": 699
   },
   {
     "full_name": "snyk/actions",
     "stargazers_count": 247,
     "open_issues_count": 22,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "bdougie/github-login-test",
@@ -75,36 +75,36 @@
     "full_name": "Clovis-team/clovis-open-code-extracts",
     "stargazers_count": 49,
     "open_issues_count": 1,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 901,
+    "stargazers_count": 904,
     "open_issues_count": 37,
     "forks_count": 92
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2609,
-    "open_issues_count": 2400,
-    "forks_count": 1582
+    "stargazers_count": 2610,
+    "open_issues_count": 2401,
+    "forks_count": 1583
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 11946,
-    "open_issues_count": 368,
-    "forks_count": 534
+    "stargazers_count": 11999,
+    "open_issues_count": 371,
+    "forks_count": 541
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1085,
+    "stargazers_count": 1086,
     "open_issues_count": 10,
     "forks_count": 274
   },
   {
     "full_name": "solo-io/gloo",
     "stargazers_count": 3339,
-    "open_issues_count": 1019,
+    "open_issues_count": 1026,
     "forks_count": 338
   },
   {
@@ -115,25 +115,25 @@
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 442,
+    "stargazers_count": 452,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5169,
+    "stargazers_count": 5172,
     "open_issues_count": 92,
-    "forks_count": 508
+    "forks_count": 509
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32837,
+    "stargazers_count": 32855,
     "open_issues_count": 7,
     "forks_count": 2795
   },
   {
     "full_name": "axentix/axentix",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 3,
     "forks_count": 15
   },
@@ -145,27 +145,27 @@
   },
   {
     "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2990,
+    "stargazers_count": 2991,
     "open_issues_count": 22,
     "forks_count": 88
   },
   {
     "full_name": "addyosmani/critical",
-    "stargazers_count": 9436,
+    "stargazers_count": 9437,
     "open_issues_count": 41,
     "forks_count": 401
   },
   {
     "full_name": "antfu/vitesse",
-    "stargazers_count": 4514,
+    "stargazers_count": 4523,
     "open_issues_count": 6,
-    "forks_count": 472
+    "forks_count": 471
   },
   {
     "full_name": "discord/discord-open-source",
     "stargazers_count": 1023,
     "open_issues_count": 170,
-    "forks_count": 562
+    "forks_count": 563
   },
   {
     "full_name": "huihzhao/2035",
