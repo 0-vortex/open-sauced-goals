@@ -1,13 +1,55 @@
 [
   {
+    "full_name": "schollz/croc",
+    "stargazers_count": 19174,
+    "open_issues_count": 79,
+    "forks_count": 847
+  },
+  {
+    "full_name": "asdf-vm/asdf",
+    "stargazers_count": 14165,
+    "open_issues_count": 139,
+    "forks_count": 558
+  },
+  {
+    "full_name": "theryangeary/choose",
+    "stargazers_count": 1135,
+    "open_issues_count": 7,
+    "forks_count": 25
+  },
+  {
+    "full_name": "bcicen/ctop",
+    "stargazers_count": 12717,
+    "open_issues_count": 64,
+    "forks_count": 488
+  },
+  {
+    "full_name": "mikefarah/yq",
+    "stargazers_count": 5451,
+    "open_issues_count": 48,
+    "forks_count": 330
+  },
+  {
+    "full_name": "BurntSushi/xsv",
+    "stargazers_count": 8217,
+    "open_issues_count": 132,
+    "forks_count": 267
+  },
+  {
+    "full_name": "tomnomnom/gron",
+    "stargazers_count": 10695,
+    "open_issues_count": 40,
+    "forks_count": 256
+  },
+  {
     "full_name": "slackapi/bolt-js",
-    "stargazers_count": 2109,
+    "stargazers_count": 2112,
     "open_issues_count": 61,
     "forks_count": 310
   },
   {
     "full_name": "npm/ini",
-    "stargazers_count": 638,
+    "stargazers_count": 639,
     "open_issues_count": 58,
     "forks_count": 204
   },
@@ -25,7 +67,7 @@
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1073,
+    "stargazers_count": 1074,
     "open_issues_count": 79,
     "forks_count": 450
   },
@@ -43,25 +85,25 @@
   },
   {
     "full_name": "googleapis/google-cloud-node",
-    "stargazers_count": 2391,
+    "stargazers_count": 2390,
     "open_issues_count": 26,
     "forks_count": 497
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2822,
+    "stargazers_count": 2824,
     "open_issues_count": 213,
     "forks_count": 1014
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 9389,
-    "open_issues_count": 210,
-    "forks_count": 710
+    "stargazers_count": 9423,
+    "open_issues_count": 213,
+    "forks_count": 712
   },
   {
     "full_name": "snyk/actions",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 22,
     "forks_count": 106
   },
@@ -79,21 +121,21 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 913,
+    "stargazers_count": 924,
     "open_issues_count": 37,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2616,
-    "open_issues_count": 2412,
-    "forks_count": 1585
+    "stargazers_count": 2617,
+    "open_issues_count": 2418,
+    "forks_count": 1587
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 12143,
-    "open_issues_count": 357,
-    "forks_count": 549
+    "stargazers_count": 12190,
+    "open_issues_count": 364,
+    "forks_count": 553
   },
   {
     "full_name": "nickboucher/trojan-source",
@@ -105,7 +147,7 @@
     "full_name": "solo-io/gloo",
     "stargazers_count": 3340,
     "open_issues_count": 1028,
-    "forks_count": 339
+    "forks_count": 338
   },
   {
     "full_name": "snyk/awesome-snyk-community",
@@ -115,68 +157,26 @@
   },
   {
     "full_name": "ecklf/tailwindcss-radix",
-    "stargazers_count": 469,
+    "stargazers_count": 474,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5177,
-    "open_issues_count": 92,
+    "stargazers_count": 5182,
+    "open_issues_count": 91,
     "forks_count": 510
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 32908,
-    "open_issues_count": 11,
-    "forks_count": 2806
+    "stargazers_count": 32944,
+    "open_issues_count": 10,
+    "forks_count": 2807
   },
   {
     "full_name": "axentix/axentix",
     "stargazers_count": 158,
     "open_issues_count": 2,
     "forks_count": 15
-  },
-  {
-    "full_name": "whitep4nth3r/womenofjamstack",
-    "stargazers_count": 21,
-    "open_issues_count": 2,
-    "forks_count": 29
-  },
-  {
-    "full_name": "GoogleChromeLabs/critters",
-    "stargazers_count": 2993,
-    "open_issues_count": 22,
-    "forks_count": 88
-  },
-  {
-    "full_name": "addyosmani/critical",
-    "stargazers_count": 9438,
-    "open_issues_count": 42,
-    "forks_count": 401
-  },
-  {
-    "full_name": "antfu/vitesse",
-    "stargazers_count": 4565,
-    "open_issues_count": 6,
-    "forks_count": 474
-  },
-  {
-    "full_name": "discord/discord-open-source",
-    "stargazers_count": 1024,
-    "open_issues_count": 171,
-    "forks_count": 563
-  },
-  {
-    "full_name": "huihzhao/2035",
-    "stargazers_count": 3,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "0-vortex/open-sauced-hot-vite-ts-test",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
