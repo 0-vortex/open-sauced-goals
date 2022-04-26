@@ -7,87 +7,87 @@
   },
   {
     "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 64744,
-    "open_issues_count": 32,
-    "forks_count": 8960
+    "stargazers_count": 64794,
+    "open_issues_count": 34,
+    "forks_count": 8970
   },
   {
     "full_name": "orhun/systeroid",
-    "stargazers_count": 543,
-    "open_issues_count": 5,
+    "stargazers_count": 555,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "muesli/duf",
-    "stargazers_count": 8347,
+    "stargazers_count": 8379,
     "open_issues_count": 25,
-    "forks_count": 280
+    "forks_count": 282
   },
   {
     "full_name": "sharkdp/hexyl",
-    "stargazers_count": 6797,
+    "stargazers_count": 6800,
     "open_issues_count": 14,
     "forks_count": 184
   },
   {
     "full_name": "ranger/ranger",
-    "stargazers_count": 11393,
-    "open_issues_count": 776,
-    "forks_count": 753
+    "stargazers_count": 11402,
+    "open_issues_count": 777,
+    "forks_count": 751
   },
   {
     "full_name": "schollz/croc",
-    "stargazers_count": 19248,
+    "stargazers_count": 19303,
     "open_issues_count": 79,
-    "forks_count": 851
+    "forks_count": 854
   },
   {
     "full_name": "asdf-vm/asdf",
-    "stargazers_count": 14226,
-    "open_issues_count": 143,
-    "forks_count": 559
+    "stargazers_count": 14254,
+    "open_issues_count": 142,
+    "forks_count": 562
   },
   {
     "full_name": "theryangeary/choose",
-    "stargazers_count": 1151,
-    "open_issues_count": 6,
+    "stargazers_count": 1164,
+    "open_issues_count": 4,
     "forks_count": 26
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 12746,
+    "stargazers_count": 12764,
     "open_issues_count": 65,
-    "forks_count": 490
+    "forks_count": 491
   },
   {
     "full_name": "mikefarah/yq",
-    "stargazers_count": 5489,
-    "open_issues_count": 53,
-    "forks_count": 330
+    "stargazers_count": 5514,
+    "open_issues_count": 54,
+    "forks_count": 333
   },
   {
     "full_name": "BurntSushi/xsv",
-    "stargazers_count": 8235,
-    "open_issues_count": 132,
-    "forks_count": 266
+    "stargazers_count": 8246,
+    "open_issues_count": 133,
+    "forks_count": 269
   },
   {
     "full_name": "tomnomnom/gron",
-    "stargazers_count": 10713,
+    "stargazers_count": 10719,
     "open_issues_count": 41,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "slackapi/bolt-js",
-    "stargazers_count": 2116,
+    "stargazers_count": 2117,
     "open_issues_count": 62,
-    "forks_count": 312
+    "forks_count": 313
   },
   {
     "full_name": "npm/ini",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 58,
-    "forks_count": 205
+    "forks_count": 204
   },
   {
     "full_name": "snyk/vervet",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "HarshCasper/Rotten-Scripts",
-    "stargazers_count": 1076,
+    "stargazers_count": 1077,
     "open_issues_count": 81,
-    "forks_count": 453
+    "forks_count": 452
   },
   {
     "full_name": "snyk-labs/php-goof",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "googleapis/google-cloud-go",
-    "stargazers_count": 2828,
-    "open_issues_count": 219,
-    "forks_count": 1016
+    "stargazers_count": 2839,
+    "open_issues_count": 220,
+    "forks_count": 1018
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 9542,
-    "open_issues_count": 212,
-    "forks_count": 726
+    "stargazers_count": 9598,
+    "open_issues_count": 226,
+    "forks_count": 730
   },
   {
     "full_name": "snyk/actions",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "zdharma-continuum/zinit",
-    "stargazers_count": 938,
-    "open_issues_count": 35,
-    "forks_count": 94
+    "stargazers_count": 946,
+    "open_issues_count": 34,
+    "forks_count": 97
   },
   {
     "full_name": "spack/spack",
-    "stargazers_count": 2620,
-    "open_issues_count": 2411,
-    "forks_count": 1588
+    "stargazers_count": 2625,
+    "open_issues_count": 2404,
+    "forks_count": 1589
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 12323,
-    "open_issues_count": 369,
-    "forks_count": 561
+    "stargazers_count": 12388,
+    "open_issues_count": 366,
+    "forks_count": 567
   },
   {
     "full_name": "nickboucher/trojan-source",
-    "stargazers_count": 1087,
+    "stargazers_count": 1088,
     "open_issues_count": 10,
     "forks_count": 273
   }
