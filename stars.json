@@ -1,7 +1,7 @@
 [
   {
     "full_name": "gitploy-io/gitploy",
-    "stargazers_count": 197,
+    "stargazers_count": 200,
     "open_issues_count": 7,
     "forks_count": 10
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13059,
+    "stargazers_count": 13068,
     "open_issues_count": 174,
-    "forks_count": 1289
+    "forks_count": 1288
   },
   {
     "full_name": "sobolevn/wakatime-zsh-plugin",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 181,
+    "stargazers_count": 183,
     "open_issues_count": 29,
     "forks_count": 23
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28481,
-    "open_issues_count": 1599,
-    "forks_count": 5204
+    "stargazers_count": 28489,
+    "open_issues_count": 1601,
+    "forks_count": 5206
   },
   {
     "full_name": "hiro1107/nestjs-supabase-auth",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "crisanlucid/vite-react-tailwind-bionic-reading",
-    "stargazers_count": 314,
+    "stargazers_count": 315,
     "open_issues_count": 3,
     "forks_count": 16
   },
@@ -97,20 +97,20 @@
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 22025,
-    "open_issues_count": 922,
-    "forks_count": 1976
+    "stargazers_count": 22027,
+    "open_issues_count": 918,
+    "forks_count": 1980
   },
   {
     "full_name": "withastro/astro.build",
     "stargazers_count": 53,
     "open_issues_count": 2,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "snyk/sweater-comb",
     "stargazers_count": 13,
-    "open_issues_count": 43,
+    "open_issues_count": 42,
     "forks_count": 12
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "shadowwalker/next-pwa",
-    "stargazers_count": 2272,
+    "stargazers_count": 2274,
     "open_issues_count": 62,
     "forks_count": 211
   },
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "Bedrock-Layouts/Bedrock",
-    "stargazers_count": 344,
-    "open_issues_count": 11,
+    "stargazers_count": 348,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 2698,
-    "open_issues_count": 46,
+    "stargazers_count": 2702,
+    "open_issues_count": 47,
     "forks_count": 334
   },
   {
     "full_name": "ariga/atlas",
-    "stargazers_count": 1633,
-    "open_issues_count": 29,
+    "stargazers_count": 1636,
+    "open_issues_count": 28,
     "forks_count": 55
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 65297,
-    "open_issues_count": 39,
-    "forks_count": 9022
+    "stargazers_count": 65307,
+    "open_issues_count": 40,
+    "forks_count": 9023
   },
   {
     "full_name": "orhun/systeroid",
