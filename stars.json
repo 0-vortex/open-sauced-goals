@@ -1,7 +1,7 @@
 [
   {
     "full_name": "pietrzakadrian/bank-server",
-    "stargazers_count": 158,
+    "stargazers_count": 157,
     "open_issues_count": 15,
     "forks_count": 68
   },
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34676,
-    "open_issues_count": 848,
-    "forks_count": 9173
+    "stargazers_count": 34700,
+    "open_issues_count": 839,
+    "forks_count": 9176
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4676,
-    "open_issues_count": 288,
+    "stargazers_count": 4688,
+    "open_issues_count": 289,
     "forks_count": 370
   },
   {
     "full_name": "gitploy-io/gitploy",
-    "stargazers_count": 209,
-    "open_issues_count": 8,
+    "stargazers_count": 208,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "dracula/midnight-commander",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "jeffijoe/typesync",
-    "stargazers_count": 1246,
+    "stargazers_count": 1247,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13143,
-    "open_issues_count": 175,
+    "stargazers_count": 13147,
+    "open_issues_count": 174,
     "forks_count": 1291
   },
   {
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28552,
-    "open_issues_count": 1623,
-    "forks_count": 5226
+    "stargazers_count": 28564,
+    "open_issues_count": 1625,
+    "forks_count": 5224
   },
   {
     "full_name": "hiro1107/nestjs-supabase-auth",
     "stargazers_count": 84,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 14
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "axe-me/vite-plugin-node",
-    "stargazers_count": 470,
+    "stargazers_count": 472,
     "open_issues_count": 8,
     "forks_count": 15
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 22105,
+    "stargazers_count": 22117,
     "open_issues_count": 919,
-    "forks_count": 1986
+    "forks_count": 1987
   },
   {
     "full_name": "withastro/astro.build",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "shadowwalker/next-pwa",
-    "stargazers_count": 2298,
+    "stargazers_count": 2300,
     "open_issues_count": 63,
     "forks_count": 214
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "TotalTechGeek/pictoprime",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 4,
     "forks_count": 14
   },
   {
     "full_name": "gajus/eslint-config-canonical",
     "stargazers_count": 302,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "Bedrock-Layouts/Bedrock",
-    "stargazers_count": 350,
+    "stargazers_count": 351,
     "open_issues_count": 9,
     "forks_count": 18
   }
