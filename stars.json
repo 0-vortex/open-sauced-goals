@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "darraghoriordan/eslint-plugin-nestjs-typed",
+    "stargazers_count": 43,
+    "open_issues_count": 3,
+    "forks_count": 14
+  },
+  {
+    "full_name": "typescript-eslint/typescript-eslint",
+    "stargazers_count": 11762,
+    "open_issues_count": 322,
+    "forks_count": 2189
+  },
+  {
+    "full_name": "eslint/eslint",
+    "stargazers_count": 20766,
+    "open_issues_count": 113,
+    "forks_count": 3719
+  },
+  {
+    "full_name": "import-js/eslint-plugin-import",
+    "stargazers_count": 4118,
+    "open_issues_count": 522,
+    "forks_count": 1359
+  },
+  {
+    "full_name": "buildo/eslint-plugin-no-loops",
+    "stargazers_count": 111,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "dustinspecker/eslint-plugin-no-use-extend-native",
+    "stargazers_count": 49,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "mysticatea/eslint-plugin-node",
+    "stargazers_count": 870,
+    "open_issues_count": 119,
+    "forks_count": 139
+  },
+  {
+    "full_name": "xjamundx/eslint-plugin-promise",
+    "stargazers_count": 719,
+    "open_issues_count": 57,
+    "forks_count": 87
+  },
+  {
+    "full_name": "Shopify/web-configs",
+    "stargazers_count": 385,
+    "open_issues_count": 10,
+    "forks_count": 46
+  },
+  {
+    "full_name": "sanity-io/hydrogen-sanity-demo",
+    "stargazers_count": 75,
+    "open_issues_count": 1,
+    "forks_count": 18
+  },
+  {
     "full_name": "pietrzakadrian/bank-server",
     "stargazers_count": 157,
     "open_issues_count": 15,
@@ -19,20 +79,20 @@
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34700,
-    "open_issues_count": 839,
-    "forks_count": 9176
+    "stargazers_count": 34725,
+    "open_issues_count": 830,
+    "forks_count": 9182
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4688,
-    "open_issues_count": 289,
-    "forks_count": 370
+    "stargazers_count": 4712,
+    "open_issues_count": 291,
+    "forks_count": 377
   },
   {
     "full_name": "gitploy-io/gitploy",
     "stargazers_count": 208,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
@@ -61,9 +121,9 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13147,
-    "open_issues_count": 174,
-    "forks_count": 1291
+    "stargazers_count": 13168,
+    "open_issues_count": 176,
+    "forks_count": 1294
   },
   {
     "full_name": "sobolevn/wakatime-zsh-plugin",
@@ -73,7 +133,7 @@
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 29,
     "forks_count": 23
   },
@@ -85,9 +145,9 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28564,
-    "open_issues_count": 1625,
-    "forks_count": 5224
+    "stargazers_count": 28584,
+    "open_issues_count": 1614,
+    "forks_count": 5233
   },
   {
     "full_name": "hiro1107/nestjs-supabase-auth",
@@ -115,68 +175,8 @@
   },
   {
     "full_name": "crisanlucid/vite-react-tailwind-bionic-reading",
-    "stargazers_count": 318,
+    "stargazers_count": 320,
     "open_issues_count": 3,
     "forks_count": 16
-  },
-  {
-    "full_name": "axe-me/vite-plugin-node",
-    "stargazers_count": 472,
-    "open_issues_count": 8,
-    "forks_count": 15
-  },
-  {
-    "full_name": "portainer/portainer",
-    "stargazers_count": 22117,
-    "open_issues_count": 919,
-    "forks_count": 1987
-  },
-  {
-    "full_name": "withastro/astro.build",
-    "stargazers_count": 57,
-    "open_issues_count": 4,
-    "forks_count": 36
-  },
-  {
-    "full_name": "snyk/sweater-comb",
-    "stargazers_count": 13,
-    "open_issues_count": 44,
-    "forks_count": 12
-  },
-  {
-    "full_name": "Nasller/CodeGlancePro",
-    "stargazers_count": 37,
-    "open_issues_count": 2,
-    "forks_count": 6
-  },
-  {
-    "full_name": "shadowwalker/next-pwa",
-    "stargazers_count": 2300,
-    "open_issues_count": 63,
-    "forks_count": 214
-  },
-  {
-    "full_name": "drhelius/Gearsystem",
-    "stargazers_count": 160,
-    "open_issues_count": 14,
-    "forks_count": 30
-  },
-  {
-    "full_name": "TotalTechGeek/pictoprime",
-    "stargazers_count": 226,
-    "open_issues_count": 4,
-    "forks_count": 14
-  },
-  {
-    "full_name": "gajus/eslint-config-canonical",
-    "stargazers_count": 302,
-    "open_issues_count": 6,
-    "forks_count": 15
-  },
-  {
-    "full_name": "Bedrock-Layouts/Bedrock",
-    "stargazers_count": 351,
-    "open_issues_count": 9,
-    "forks_count": 18
   }
 ]
