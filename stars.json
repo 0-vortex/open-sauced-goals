@@ -7,19 +7,19 @@
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11762,
-    "open_issues_count": 322,
-    "forks_count": 2189
+    "stargazers_count": 11767,
+    "open_issues_count": 326,
+    "forks_count": 2193
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20766,
-    "open_issues_count": 113,
-    "forks_count": 3719
+    "stargazers_count": 20776,
+    "open_issues_count": 114,
+    "forks_count": 3721
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4118,
+    "stargazers_count": 4119,
     "open_issues_count": 522,
     "forks_count": 1359
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "Shopify/web-configs",
-    "stargazers_count": 385,
-    "open_issues_count": 10,
+    "stargazers_count": 384,
+    "open_issues_count": 9,
     "forks_count": 46
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 75,
+    "stargazers_count": 82,
     "open_issues_count": 1,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "pietrzakadrian/bank-server",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34725,
+    "stargazers_count": 34737,
     "open_issues_count": 830,
-    "forks_count": 9182
+    "forks_count": 9188
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4712,
-    "open_issues_count": 291,
+    "stargazers_count": 4717,
+    "open_issues_count": 289,
     "forks_count": 377
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "dracula/midnight-commander",
-    "stargazers_count": 16,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13168,
+    "stargazers_count": 13182,
     "open_issues_count": 176,
-    "forks_count": 1294
+    "forks_count": 1296
   },
   {
     "full_name": "sobolevn/wakatime-zsh-plugin",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28584,
-    "open_issues_count": 1614,
+    "stargazers_count": 28595,
+    "open_issues_count": 1619,
     "forks_count": 5233
   },
   {
