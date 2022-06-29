@@ -13,21 +13,21 @@
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11783,
-    "open_issues_count": 333,
-    "forks_count": 2193
+    "stargazers_count": 11789,
+    "open_issues_count": 334,
+    "forks_count": 2195
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20786,
-    "open_issues_count": 114,
-    "forks_count": 3727
+    "stargazers_count": 20788,
+    "open_issues_count": 115,
+    "forks_count": 3729
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4122,
+    "stargazers_count": 4124,
     "open_issues_count": 523,
-    "forks_count": 1360
+    "forks_count": 1359
   },
   {
     "full_name": "buildo/eslint-plugin-no-loops",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "xjamundx/eslint-plugin-promise",
-    "stargazers_count": 720,
+    "stargazers_count": 722,
     "open_issues_count": 58,
     "forks_count": 87
   },
   {
     "full_name": "Shopify/web-configs",
-    "stargazers_count": 385,
-    "open_issues_count": 10,
+    "stargazers_count": 386,
+    "open_issues_count": 11,
     "forks_count": 46
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 86,
+    "stargazers_count": 91,
     "open_issues_count": 1,
-    "forks_count": 19
+    "forks_count": 21
   },
   {
     "full_name": "pietrzakadrian/bank-server",
@@ -75,25 +75,25 @@
     "full_name": "pietrzakadrian/nestjs-typeorm-pagination",
     "stargazers_count": 19,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 3
   },
   {
     "full_name": "snyk/terraform-goof",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 195
+    "forks_count": 196
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34758,
-    "open_issues_count": 837,
-    "forks_count": 9195
+    "stargazers_count": 34777,
+    "open_issues_count": 817,
+    "forks_count": 9197
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4727,
-    "open_issues_count": 295,
-    "forks_count": 380
+    "stargazers_count": 4736,
+    "open_issues_count": 292,
+    "forks_count": 381
   },
   {
     "full_name": "gitploy-io/gitploy",
@@ -122,12 +122,12 @@
   {
     "full_name": "jeffijoe/typesync",
     "stargazers_count": 1248,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13193,
+    "stargazers_count": 13201,
     "open_issues_count": 167,
     "forks_count": 1298
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28624,
-    "open_issues_count": 1627,
-    "forks_count": 5240
+    "stargazers_count": 28631,
+    "open_issues_count": 1621,
+    "forks_count": 5238
   },
   {
     "full_name": "hiro1107/nestjs-supabase-auth",
