@@ -13,19 +13,19 @@
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11798,
-    "open_issues_count": 337,
-    "forks_count": 2199
+    "stargazers_count": 11802,
+    "open_issues_count": 341,
+    "forks_count": 2205
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20800,
-    "open_issues_count": 115,
-    "forks_count": 3731
+    "stargazers_count": 20808,
+    "open_issues_count": 110,
+    "forks_count": 3732
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4127,
+    "stargazers_count": 4128,
     "open_issues_count": 521,
     "forks_count": 1362
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "mysticatea/eslint-plugin-node",
-    "stargazers_count": 872,
+    "stargazers_count": 873,
     "open_issues_count": 118,
     "forks_count": 139
   },
   {
     "full_name": "xjamundx/eslint-plugin-promise",
-    "stargazers_count": 722,
+    "stargazers_count": 723,
     "open_issues_count": 58,
     "forks_count": 88
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 1,
     "forks_count": 23
   },
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34802,
-    "open_issues_count": 819,
-    "forks_count": 9203
+    "stargazers_count": 34814,
+    "open_issues_count": 822,
+    "forks_count": 9204
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4754,
-    "open_issues_count": 292,
-    "forks_count": 384
+    "stargazers_count": 4758,
+    "open_issues_count": 293,
+    "forks_count": 386
   },
   {
     "full_name": "gitploy-io/gitploy",
@@ -110,7 +110,7 @@
   {
     "full_name": "0-vortex/api.opensauced.pizza",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13211,
-    "open_issues_count": 169,
-    "forks_count": 1301
+    "stargazers_count": 13217,
+    "open_issues_count": 166,
+    "forks_count": 1302
   },
   {
     "full_name": "sobolevn/wakatime-zsh-plugin",
@@ -140,7 +140,7 @@
   {
     "full_name": "cocogitto/cocogitto",
     "stargazers_count": 190,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 23
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 28652,
-    "open_issues_count": 1615,
-    "forks_count": 5241
+    "stargazers_count": 28662,
+    "open_issues_count": 1617,
+    "forks_count": 5243
   },
   {
     "full_name": "hiro1107/nestjs-supabase-auth",
