@@ -1,7 +1,61 @@
 [
   {
+    "full_name": "madnuttah/unbound-docker",
+    "stargazers_count": 48,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "BuilderIO/qwik",
+    "stargazers_count": 4569,
+    "open_issues_count": 59,
+    "forks_count": 169
+  },
+  {
+    "full_name": "semc-labs/salo",
+    "stargazers_count": 41,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
+    "full_name": "mindsdb/mindsdb",
+    "stargazers_count": 8324,
+    "open_issues_count": 140,
+    "forks_count": 854
+  },
+  {
+    "full_name": "typesense/typesense",
+    "stargazers_count": 10278,
+    "open_issues_count": 172,
+    "forks_count": 293
+  },
+  {
+    "full_name": "ggerganov/kbd-audio",
+    "stargazers_count": 5653,
+    "open_issues_count": 6,
+    "forks_count": 452
+  },
+  {
+    "full_name": "rust-lang/triagebot",
+    "stargazers_count": 112,
+    "open_issues_count": 58,
+    "forks_count": 48
+  },
+  {
+    "full_name": "ItsJustShepherd/BREACH",
+    "stargazers_count": 32,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "alufers/mitmproxy2swagger",
+    "stargazers_count": 3821,
+    "open_issues_count": 2,
+    "forks_count": 141
+  },
+  {
     "full_name": "google/brain-tokyo-workshop",
-    "stargazers_count": 1125,
+    "stargazers_count": 1126,
     "open_issues_count": 29,
     "forks_count": 320
   },
@@ -19,21 +73,21 @@
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11815,
-    "open_issues_count": 345,
-    "forks_count": 2212
+    "stargazers_count": 11826,
+    "open_issues_count": 348,
+    "forks_count": 2221
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20830,
-    "open_issues_count": 118,
-    "forks_count": 3735
+    "stargazers_count": 20841,
+    "open_issues_count": 112,
+    "forks_count": 3737
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4139,
-    "open_issues_count": 520,
-    "forks_count": 1362
+    "stargazers_count": 4144,
+    "open_issues_count": 521,
+    "forks_count": 1363
   },
   {
     "full_name": "buildo/eslint-plugin-no-loops",
@@ -55,7 +109,7 @@
   },
   {
     "full_name": "xjamundx/eslint-plugin-promise",
-    "stargazers_count": 723,
+    "stargazers_count": 725,
     "open_issues_count": 58,
     "forks_count": 87
   },
@@ -67,13 +121,13 @@
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 97,
-    "open_issues_count": 2,
+    "stargazers_count": 103,
+    "open_issues_count": 1,
     "forks_count": 24
   },
   {
     "full_name": "pietrzakadrian/bank-server",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 16,
     "forks_count": 67
   },
@@ -87,23 +141,23 @@
     "full_name": "snyk/terraform-goof",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34848,
+    "stargazers_count": 34872,
     "open_issues_count": 840,
-    "forks_count": 9212
+    "forks_count": 9215
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4773,
-    "open_issues_count": 301,
-    "forks_count": 389
+    "stargazers_count": 4787,
+    "open_issues_count": 302,
+    "forks_count": 390
   },
   {
     "full_name": "gitploy-io/gitploy",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 7,
     "forks_count": 11
   },
@@ -115,7 +169,7 @@
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 2,
+    "stargazers_count": 4,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -123,60 +177,6 @@
     "full_name": "dracula/midnight-commander",
     "stargazers_count": 15,
     "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "jeffijoe/typesync",
-    "stargazers_count": 1249,
-    "open_issues_count": 10,
-    "forks_count": 17
-  },
-  {
-    "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 13236,
-    "open_issues_count": 168,
-    "forks_count": 1306
-  },
-  {
-    "full_name": "sobolevn/wakatime-zsh-plugin",
-    "stargazers_count": 71,
-    "open_issues_count": 5,
-    "forks_count": 11
-  },
-  {
-    "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 190,
-    "open_issues_count": 30,
-    "forks_count": 23
-  },
-  {
-    "full_name": "chadstewart/you-go-backend-project",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "typeorm/typeorm",
-    "stargazers_count": 28697,
-    "open_issues_count": 1631,
-    "forks_count": 5252
-  },
-  {
-    "full_name": "hiro1107/nestjs-supabase-auth",
-    "stargazers_count": 85,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "nawespel/nestjs-supabase-auth",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "12products/poke-backend",
-    "stargazers_count": 1,
-    "open_issues_count": 3,
     "forks_count": 1
   }
 ]
