@@ -7,9 +7,9 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4743,
-    "open_issues_count": 49,
-    "forks_count": 178
+    "stargazers_count": 4829,
+    "open_issues_count": 50,
+    "forks_count": 183
   },
   {
     "full_name": "semc-labs/salo",
@@ -19,26 +19,26 @@
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 8433,
-    "open_issues_count": 141,
-    "forks_count": 867
+    "stargazers_count": 8499,
+    "open_issues_count": 143,
+    "forks_count": 883
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 10300,
-    "open_issues_count": 174,
-    "forks_count": 294
+    "stargazers_count": 10323,
+    "open_issues_count": 175,
+    "forks_count": 295
   },
   {
     "full_name": "ggerganov/kbd-audio",
-    "stargazers_count": 5660,
+    "stargazers_count": 5662,
     "open_issues_count": 6,
     "forks_count": 451
   },
   {
     "full_name": "rust-lang/triagebot",
     "stargazers_count": 113,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "forks_count": 48
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 3830,
+    "stargazers_count": 3837,
     "open_issues_count": 2,
     "forks_count": 141
   },
   {
     "full_name": "google/brain-tokyo-workshop",
-    "stargazers_count": 1129,
-    "open_issues_count": 30,
+    "stargazers_count": 1130,
+    "open_issues_count": 31,
     "forks_count": 319
   },
   {
@@ -68,30 +68,30 @@
   {
     "full_name": "darraghoriordan/eslint-plugin-nestjs-typed",
     "stargazers_count": 46,
-    "open_issues_count": 3,
-    "forks_count": 14
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11845,
-    "open_issues_count": 361,
-    "forks_count": 2228
+    "stargazers_count": 11854,
+    "open_issues_count": 357,
+    "forks_count": 2230
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20876,
-    "open_issues_count": 108,
-    "forks_count": 3748
+    "stargazers_count": 20894,
+    "open_issues_count": 110,
+    "forks_count": 3749
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4152,
-    "open_issues_count": 520,
-    "forks_count": 1362
+    "stargazers_count": 4159,
+    "open_issues_count": 523,
+    "forks_count": 1364
   },
   {
     "full_name": "buildo/eslint-plugin-no-loops",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "mysticatea/eslint-plugin-node",
-    "stargazers_count": 878,
+    "stargazers_count": 879,
     "open_issues_count": 118,
     "forks_count": 139
   },
@@ -121,56 +121,56 @@
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 107,
+    "stargazers_count": 110,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "pietrzakadrian/bank-server",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 16,
     "forks_count": 67
   },
   {
     "full_name": "pietrzakadrian/nestjs-typeorm-pagination",
     "stargazers_count": 21,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "snyk/terraform-goof",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 199
+    "forks_count": 200
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34925,
-    "open_issues_count": 831,
-    "forks_count": 9229
+    "stargazers_count": 34948,
+    "open_issues_count": 830,
+    "forks_count": 9239
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4813,
-    "open_issues_count": 305,
-    "forks_count": 389
+    "stargazers_count": 4831,
+    "open_issues_count": 301,
+    "forks_count": 392
   },
   {
     "full_name": "gitploy-io/gitploy",
-    "stargazers_count": 213,
-    "open_issues_count": 6,
+    "stargazers_count": 215,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
     "full_name": "rossmoody/cryptocons",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 5,
-    "open_issues_count": 4,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
