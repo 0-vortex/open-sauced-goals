@@ -1,15 +1,15 @@
 [
   {
     "full_name": "madnuttah/unbound-docker",
-    "stargazers_count": 48,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 4829,
-    "open_issues_count": 50,
-    "forks_count": 183
+    "stargazers_count": 4913,
+    "open_issues_count": 56,
+    "forks_count": 186
   },
   {
     "full_name": "semc-labs/salo",
@@ -19,26 +19,26 @@
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 8499,
-    "open_issues_count": 143,
-    "forks_count": 883
+    "stargazers_count": 8726,
+    "open_issues_count": 153,
+    "forks_count": 903
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 10323,
-    "open_issues_count": 175,
-    "forks_count": 295
+    "stargazers_count": 10347,
+    "open_issues_count": 177,
+    "forks_count": 296
   },
   {
     "full_name": "ggerganov/kbd-audio",
-    "stargazers_count": 5662,
+    "stargazers_count": 5667,
     "open_issues_count": 6,
-    "forks_count": 451
+    "forks_count": 452
   },
   {
     "full_name": "rust-lang/triagebot",
     "stargazers_count": 113,
-    "open_issues_count": 59,
+    "open_issues_count": 60,
     "forks_count": 48
   },
   {
@@ -49,45 +49,45 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 3837,
+    "stargazers_count": 3849,
     "open_issues_count": 2,
-    "forks_count": 141
+    "forks_count": 142
   },
   {
     "full_name": "google/brain-tokyo-workshop",
-    "stargazers_count": 1130,
+    "stargazers_count": 1131,
     "open_issues_count": 31,
-    "forks_count": 319
+    "forks_count": 320
   },
   {
     "full_name": "snyk/user-docs",
     "stargazers_count": 12,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 75
   },
   {
     "full_name": "darraghoriordan/eslint-plugin-nestjs-typed",
     "stargazers_count": 46,
     "open_issues_count": 5,
-    "forks_count": 15
+    "forks_count": 13
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 11854,
-    "open_issues_count": 357,
-    "forks_count": 2230
+    "stargazers_count": 11882,
+    "open_issues_count": 350,
+    "forks_count": 2234
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 20894,
-    "open_issues_count": 110,
-    "forks_count": 3749
+    "stargazers_count": 20915,
+    "open_issues_count": 114,
+    "forks_count": 3752
   },
   {
     "full_name": "import-js/eslint-plugin-import",
-    "stargazers_count": 4159,
-    "open_issues_count": 523,
-    "forks_count": 1364
+    "stargazers_count": 4166,
+    "open_issues_count": 484,
+    "forks_count": 1367
   },
   {
     "full_name": "buildo/eslint-plugin-no-loops",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "xjamundx/eslint-plugin-promise",
-    "stargazers_count": 725,
+    "stargazers_count": 724,
     "open_issues_count": 58,
     "forks_count": 87
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "sanity-io/hydrogen-sanity-demo",
-    "stargazers_count": 110,
-    "open_issues_count": 1,
+    "stargazers_count": 112,
+    "open_issues_count": 2,
     "forks_count": 25
   },
   {
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "grpc/grpc",
-    "stargazers_count": 34948,
-    "open_issues_count": 830,
-    "forks_count": 9239
+    "stargazers_count": 34979,
+    "open_issues_count": 832,
+    "forks_count": 9243
   },
   {
     "full_name": "temporalio/temporal",
-    "stargazers_count": 4831,
-    "open_issues_count": 301,
-    "forks_count": 392
+    "stargazers_count": 4851,
+    "open_issues_count": 302,
+    "forks_count": 391
   },
   {
     "full_name": "gitploy-io/gitploy",
-    "stargazers_count": 215,
+    "stargazers_count": 216,
     "open_issues_count": 8,
     "forks_count": 11
   },
@@ -170,7 +170,7 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 5,
-    "open_issues_count": 7,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
